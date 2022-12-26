@@ -59,3 +59,18 @@ G_pyvis.toggle_physics(True)
 G_pyvis.show_buttons(filter_=True) #(filter_=['physics'])
 output_name=f'{network_name}_pyvis_{date_time_stamp}.html'
 G_pyvis.show(output_name)
+
+
+st.title('Semantic similarity Network of Questionnaire Items')
+
+# https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db
+# Save and read graph as HTML file (on Streamlit Sharing)
+try:
+   path = '/tmp'
+   G_pyvis.save_graph(f'{path}/pyvis_graph.html')
+   HtmlFile = open(f'{path}/pyvis_graph.html','r',encoding='utf-8')
+# Save and read graph as HTML file (locally)
+except:
+    path = '/html_files'
+    G_pyvis.save_graph(f'{path}/pyvis_graph.html')
+    HtmlFile = open(f'{path}/pyvis_graph.html','r',encoding='utf-8')

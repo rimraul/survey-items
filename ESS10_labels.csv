@@ -1,0 +1,513 @@
+pweight,Population size weight (must be combined with dweight or pspwght)
+name,Title of dataset
+essround,ESS round
+edition,Edition
+proddate,Production date
+idno,Respondent's identification number
+cntry,Country
+dweight,Design weight
+prob,Sampling probability
+stratum,Sampling stratum
+psu,Primary sampling unit
+nwspol,"News about politics and current affairs, watching, reading or listening, in minutes"
+netusoft,"Internet use, how often"
+netustm,"Internet use, how much time on typical day, in minutes"
+ppltrst,Most people can be trusted or you can't be too careful
+pplfair,"Most people try to take advantage of you, or try to be fair"
+pplhlp,Most of the time people helpful or mostly looking out for themselves
+polintr,How interested in politics
+psppsgva,Political system allows people to have a say in what government does
+actrolga,Able to take active role in political group
+psppipla,Political system allows people to have influence on politics
+cptppola,Confident in own ability to participate in politics
+trstprl,Trust in country's parliament
+trstlgl,Trust in the legal system
+trstplc,Trust in the police
+trstplt,Trust in politicians
+trstprt,Trust in political parties
+trstep,Trust in the European Parliament
+trstun,Trust in the United Nations
+trstsci,Trust in scientists
+vote,Voted last national election
+prtvtebg,"Party voted for in last national election, Bulgaria"
+prtvtbhr,"Party voted for in last national election, Croatia"
+prtvtecz,"Party voted for in last national election, Czechia"
+prtvthee,"Party voted for in last national election, Estonia"
+prtvtefi,"Party voted for in last national election, Finland"
+prtvtefr,"Party voted for in last national election, France (ballot 1)"
+prtvtghu,"Party voted for in last national election, Hungary"
+prtvclt1,"Party voted for in last national election 1, Lithuania (first vote, party)"
+prtvclt2,"Party voted for in last national election 2, Lithuania (second vote, party)"
+prtvclt3,"Party voted for in last national election 3, Lithuania (third vote, party)"
+prtvtfsi,"Party voted for in last national election, Slovenia"
+prtvtesk,"Party voted for in last national election, Slovakia"
+contplt,Contacted politician or government official last 12 months
+donprty,Donated to or participated in political party or pressure group last 12 months
+badge,Worn or displayed campaign badge/sticker last 12 months
+sgnptit,Signed petition last 12 months
+pbldmna,Taken part in public demonstration last 12 months
+bctprd,Boycotted certain products last 12 months
+pstplonl,Posted or shared anything about politics online last 12 months
+volunfp,Volunteered for not-for-profit or charitable organisation
+clsprty,Feel closer to a particular party than all other parties
+prtclebg,"Which party feel closer to, Bulgaria"
+prtclbhr,"Which party feel closer to, Croatia"
+prtclecz,"Which party feel closer to, Czechia"
+prtclhee,"Which party feel closer to, Estonia"
+prtclffi,"Which party feel closer to, Finland"
+prtclffr,"Which party feel closer to, France"
+prtclhhu,"Which party feel closer to, Hungary"
+prtclclt,"Which party feel closer to, Lithuania"
+prtclfsi,"Which party feel closer to, Slovenia"
+prtclesk,"Which party feel closer to, Slovakia"
+prtdgcl,How close to party
+lrscale,Placement on left right scale
+stflife,How satisfied with life as a whole
+stfeco,How satisfied with present state of economy in country
+stfgov,How satisfied with the national government
+stfdem,How satisfied with the way democracy works in country
+stfedu,State of education in country nowadays
+stfhlth,State of health services in country nowadays
+gincdif,Government should reduce differences in income levels
+freehms,Gays and lesbians free to live life as they wish
+hmsfmlsh,Ashamed if close family member gay or lesbian
+hmsacld,Gay and lesbian couples right to adopt children
+euftf,European Union: European unification go further or gone too far
+lrnobed,Obedience and respect for authority most important virtues children should learn
+loylead,Country needs most loyalty towards its leaders
+imsmetn,Allow many/few immigrants of same race/ethnic group as majority
+imdfetn,Allow many/few immigrants of different race/ethnic group from majority
+impcntr,Allow many/few immigrants from poorer countries outside Europe
+imbgeco,Immigration bad or good for country's economy
+imueclt,Country's cultural life undermined or enriched by immigrants
+imwbcnt,Immigrants make country worse or better place to live
+happy,How happy are you
+sclmeet,"How often socially meet with friends, relatives or colleagues"
+inprdsc,How many people with whom you can discuss intimate and personal matters
+sclact,Take part in social activities compared to others of same age
+crmvct,Respondent or household member victim of burglary/assault last 5 years
+aesfdrk,Feeling of safety of walking alone in local area after dark
+health,Subjective general health
+hlthhmp,Hampered in daily activities by illness/disability/infirmity/mental problem
+atchctr,How emotionally attached to [country]
+atcherp,How emotionally attached to Europe
+rlgblg,Belonging to particular religion or denomination
+rlgdnm,Religion or denomination belonging to at present
+rlgdnafi,"Religion or denomination belonging to at present, Finland"
+rlgdnhu,"Religion or denomination belonging to at present, Hungary"
+rlgdnlt,"Religion or denomination belonging to at present, Lithuania"
+rlgdnbsk,"Religion or denomination belonging to at present, Slovakia"
+rlgblge,Ever belonging to particular religion or denomination
+rlgdnme,Religion or denomination belonging to in the past
+rlgdeafi,"Religion or denomination belonging to in the past, Finland"
+rlgdehu,"Religion or denomination belonging to in the past, Hungary"
+rlgdelt,"Religion or denomination belonging to in the past, Lithuania"
+rlgdebsk,"Religion or denomination belonging to in the past, Slovakia"
+rlgdgr,How religious are you
+rlgatnd,How often attend religious services apart from special occasions
+pray,How often pray apart from at religious services
+dscrgrp,Member of a group discriminated against in this country
+dscrrce,Discrimination of respondent's group: colour or race
+dscrntn,Discrimination of respondent's group: nationality
+dscrrlg,Discrimination of respondent's group: religion
+dscrlng,Discrimination of respondent's group: language
+dscretn,Discrimination of respondent's group: ethnic group
+dscrage,Discrimination of respondent's group: age
+dscrgnd,Discrimination of respondent's group: gender
+dscrsex,Discrimination of respondent's group: sexuality
+dscrdsb,Discrimination of respondent's group: disability
+dscroth,Discrimination of respondent's group: other grounds
+dscrdk,Discrimination of respondent's group: don't know
+dscrref,Discrimination of respondent's group: refusal
+dscrnap,Discrimination of respondent's group: not applicable
+dscrna,Discrimination of respondent's group: no answer
+ctzcntr,Citizen of country
+brncntr,Born in country
+cntbrthd,Country of birth
+livecnta,What year you first came to live in country
+lnghom1,Language most often spoken at home: first mentioned
+lnghom2,Language most often spoken at home: second mentioned
+feethngr,Feel part of same race or ethnic group as most people in country
+facntr,Father born in country
+fbrncntc,"Country of birth, father"
+mocntr,Mother born in country
+mbrncntc,"Country of birth, mother"
+ccnthum,"Climate change caused by natural processes, human activity, or both"
+ccrdprs,To what extent feel personal responsibility to reduce climate change
+wrclmch,How worried about climate change
+admrclc,Administration of reduce climate change
+testic34,"Imagine large numbers of people limit energy use, how likely reduce climate change"
+testic35,"How likely, large numbers of people limit energy use"
+testic36,"How likely, governments in enough countries take action to reduce climate change"
+testic37,"Imagine large numbers of people limit energy use, how likely reduce climate change"
+testic38,"How likely, large numbers of people limit energy use"
+testic39,"How likely, governments in enough countries take action to reduce climate change"
+testic40,"Imagine large numbers of people limit energy use, how likely reduce climate change"
+testic41,"How likely, large numbers of people limit energy use"
+testic42,"How likely, governments in enough countries take action to reduce climate change"
+vteurmmb,Would vote for [country] to remain member of European Union or leave
+vteubcmb,Would vote for [country] to become member of European Union or remain outside
+fairelc,National elections are free and fair
+dfprtal,Different political parties offer clear alternatives to one another
+medcrgv,The media are free to criticise the government
+rghmgpr,The rights of minority groups are protected
+votedir,Citizens have the final say on political issues by voting directly in referendums
+cttresa,The courts treat everyone the same
+gptpelc,Governing parties are punished in elections when they have done a bad job
+gvctzpv,The government protects all citizens against poverty
+grdfinc,The government takes measures to reduce differences in income levels
+viepol,The views of ordinary people prevail over the views of the political elite
+wpestop,The will of the people cannot be stopped
+keydec,Key decisions are made by national governments rather than the European Union
+fairelcc,In country national elections are free and fair
+dfprtalc,In country different political parties offer clear alternatives to one another
+medcrgvc,In country the media are free to criticise the government
+rghmgprc,In country the rights of minority groups are protected
+votedirc,In country citizens have the final say on political issues by voting directly in referendums
+cttresac,In country the courts treat everyone the same
+gptpelcc,In country governing parties are punished in elections when they have done a bad job
+gvctzpvc,In country the government protects all citizens against poverty
+grdfincc,In country the government takes measures to reduce differences in income levels
+viepolc,In country the views of ordinary people prevail over the views of the political elite
+wpestopc,In country the will of the people cannot be stopped
+keydecc,In country key decisions are made by national governments rather than the European Union
+chpldm,Best for democracy: government changes policies in response to what most people think
+chpldmi,Important for democracy: government changes policies in response to what most people think
+chpldmc,In country government changes policies in response to what most people think
+stpldmi,Important for democracy: government sticks to policies regardless of what most people think
+stpldmc,In country government sticks to policies regardless of what most people think
+admit,Administration of how important things are for democracy
+showcv,Using correct version of showcard
+impdema,"How important things are for democracy, order A"
+impdemb,"How important things are for democracy, order B"
+impdemc,"How important things are for democracy, order C"
+impdemd,"How important things are for democracy, order D"
+impdeme,"How important things are for democracy, order E"
+implvdm,How important for you to live in democratically governed country
+accalaw,Acceptable for country to have a strong leader above the law
+hhmmb,Number of people living regularly as member of household
+gndr,Gender
+gndr2,Gender of second person in household
+gndr3,Gender of third person in household
+gndr4,Gender of fourth person in household
+gndr5,Gender of fifth person in household
+gndr6,Gender of sixth person in household
+gndr7,Gender of seventh person in household
+gndr8,Gender of eighth person in household
+gndr9,Gender of ninth person in household
+gndr10,Gender of tenth person in household
+gndr11,Gender of eleventh person in household
+gndr12,Gender of twelfth person in household
+gndr13,Gender of thirteenth person in household
+yrbrn,Year of birth
+agea,"Age of respondent, calculated"
+yrbrn2,Year of birth of second person in household
+yrbrn3,Year of birth of third person in household
+yrbrn4,Year of birth of fourth person in household
+yrbrn5,Year of birth of fifth person in household
+yrbrn6,Year of birth of sixth person in household
+yrbrn7,Year of birth of seventh person in household
+yrbrn8,Year of birth of eighth person in household
+yrbrn9,Year of birth of ninth person in household
+yrbrn10,Year of birth of tenth person in household
+yrbrn11,Year of birth of eleventh person in household
+yrbrn12,Year of birth of twelfth person in household
+yrbrn13,Year of birth of thirteenth person in household
+rshipa2,Second person in household: relationship to respondent
+rshipa3,Third person in household: relationship to respondent
+rshipa4,Fourth person in household: relationship to respondent
+rshipa5,Fifth person in household: relationship to respondent
+rshipa6,Sixth person in household: relationship to respondent
+rshipa7,Seventh person in household: relationship to respondent
+rshipa8,Eighth person in household: relationship to respondent
+rshipa9,Ninth person in household: relationship to respondent
+rshipa10,Tenth person in household: relationship to respondent
+rshipa11,Eleventh person in household: relationship to respondent
+rshipa12,Twelfth person in household: relationship to respondent
+rshipa13,Thirteenth person in household: relationship to respondent
+rshpsts,Relationship with husband/wife/partner currently living with
+lvgptnea,"Ever lived with a partner, without being married"
+dvrcdeva,Ever been divorced/had civil union dissolved
+marsts,Legal marital status
+maritalb,"Legal marital status, post coded"
+chldhhe,Ever had children living in household
+domicil,"Domicile, respondent's description"
+edulvlb,Highest level of education
+eisced,"Highest level of education, ES - ISCED"
+edlvebg,"Highest level of education, Bulgaria"
+edlvehr,"Highest level of education, Croatia"
+edlvdcz,"Highest level of education, Czechia"
+edlvdee,"Highest level of education, Estonia"
+edlvdfi,"Highest level of education, Finland"
+edlvdfr,"Highest level of education, France"
+edlvdahu,"Highest level of education, Hungary"
+edlvdlt,"Highest level of education, Lithuania"
+edlvesi,"Highest level of education, Slovenia"
+edlvdsk,"Highest level of education, Slovakia"
+eduyrs,Years of full-time education completed
+pdwrk,Doing last 7 days: paid work
+edctn,Doing last 7 days: education
+uempla,"Doing last 7 days: unemployed, actively looking for job"
+uempli,"Doing last 7 days: unemployed, not actively looking for job"
+dsbld,Doing last 7 days: permanently sick or disabled
+rtrd,Doing last 7 days: retired
+cmsrv,Doing last 7 days: community or military service
+hswrk,"Doing last 7 days: housework, looking after children, others"
+dngoth,Doing last 7 days: other
+dngref,Doing last 7 days: refusal
+dngdk,Doing last 7 days: don't know
+dngna,Doing last 7 days: no answer
+mainact,Main activity last 7 days
+mnactic,"Main activity, last 7 days. All respondents. Post coded"
+crpdwk,Control paid work last 7 days
+pdjobev,Ever had a paid job
+pdjobyr,Year last in paid job
+emplrel,Employment relation
+emplno,Number of employees respondent has/had
+wrkctra,Employment contract unlimited or limited duration
+estsz,Establishment size
+jbspv,Responsible for supervising other employees
+njbspv,Number of people responsible for in job
+wkdcorga,Allowed to decide how daily work is organised
+iorgact,Allowed to influence policy decisions about activities of organisation
+wkhct,Total contracted hours per week in main job overtime excluded
+wkhtot,Total hours normally worked per week in main job overtime included
+nacer2,"Industry, NACE rev.2"
+tporgwk,What type of organisation work/worked for
+isco08,"Occupation, ISCO08"
+wrkac6m,"Paid work in another country, period more than 6 months last 10 years"
+uemp3m,Ever unemployed and seeking work for a period more than three months
+uemp12m,Any period of unemployment and work seeking lasted 12 months or more
+uemp5yr,Any period of unemployment and work seeking within last 5 years
+mbtru,Member of trade union or similar organisation
+hincsrca,Main source of household income
+hinctnta,"Household's total net income, all sources"
+hincfel,Feeling about household's income nowadays
+edulvlpb,Partner's highest level of education
+eiscedp,"Partner's highest level of education, ES - ISCED"
+edlvpebg,"Partner's highest level of education, Bulgaria"
+edlvpehr,"Partner's highest level of education, Croatia"
+edlvpdcz,"Partner's highest level of education, Czechia"
+edlvpdee,"Partner's highest level of education, Estonia"
+edlvpdfi,"Partner's highest level of education, Finland"
+edlvpdfr,"Partner's highest level of education, France"
+edlvpdahu,"Partner's highest level of education, Hungary"
+edlvpdlt,"Partner's highest level of education, Lithuania"
+edlvpesi,"Partner's highest level of education, Slovenia"
+edlvpdsk,"Partner's highest level of education, Slovakia"
+pdwrkp,Partner doing last 7 days: paid work
+edctnp,Partner doing last 7 days: education
+uemplap,"Partner doing last 7 days: unemployed, actively looking for job"
+uemplip,"Partner doing last 7 days: unemployed, not actively looking for job"
+dsbldp,Partner doing last 7 days: permanently sick or disabled
+rtrdp,Partner doing last 7 days: retired
+cmsrvp,Partner doing last 7 days: community or military service
+hswrkp,"Partner doing last 7 days: housework, looking after children, others"
+dngothp,Partner doing last 7 days: other
+dngdkp,Partner doing last 7 days: don't know
+dngnapp,Partner doing last 7 days: not applicable
+dngrefp,Partner doing last 7 days: refusal
+dngnap,Partner doing last 7 days: no answer
+mnactp,Partner's main activity last 7 days
+crpdwkp,"Partner, control paid work last 7 days"
+isco08p,"Occupation partner, ISCO08"
+emprelp,Partner's employment relation
+wkhtotp,"Hours normally worked a week in main job overtime included, partner"
+edulvlfb,Father's highest level of education
+eiscedf,"Father's highest level of education, ES - ISCED"
+edlvfebg,"Father's highest level of education, Bulgaria"
+edlvfehr,"Father's highest level of education, Croatia"
+edlvfdcz,"Father's highest level of education, Czechia"
+edlvfdee,"Father's highest level of education, Estonia"
+edlvfdfi,"Father's highest level of education, Finland"
+edlvfdfr,"Father's highest level of education, France"
+edlvfdlt,"Father's highest level of education, Lithuania"
+edlvfesi,"Father's highest level of education, Slovenia"
+edlvfdsk,"Father's highest level of education, Slovakia"
+emprf14,Father's employment status when respondent 14
+occf14b,Father's occupation when respondent 14
+edulvlmb,Mother's highest level of education
+eiscedm,"Mother's highest level of education, ES - ISCED"
+edlvfdahu,"Father's highest level of education, Hungary"
+edlvmebg,"Mother's highest level of education, Bulgaria"
+edlvmehr,"Mother's highest level of education, Croatia"
+edlvmdcz,"Mother's highest level of education, Czechia"
+edlvmdee,"Mother's highest level of education, Estonia"
+edlvmdfi,"Mother's highest level of education, Finland"
+edlvmdfr,"Mother's highest level of education, France"
+edlvmdahu,"Mother's highest level of education, Hungary"
+edlvmdlt,"Mother's highest level of education, Lithuania"
+edlvmesi,"Mother's highest level of education, Slovenia"
+edlvmdsk,"Mother's highest level of education, Slovakia"
+emprm14,Mother's employment status when respondent 14
+occm14b,Mother's occupation when respondent 14
+atncrse,"Improve knowledge/skills: course/lecture/conference, last 12 months"
+anctry1,"First ancestry, European Standard Classification of Cultural and Ethnic Groups"
+anctry2,"Second ancestry, European Standard Classification of Cultural and Ethnic Groups"
+regunit,Regional unit
+region,"Region, [country]"
+acchome,Location able to access the internet: Home
+accwrk,Location able to access the internet: Workplace
+accmove,Location able to access the internet: On the move
+accoth,Location able to access the internet: Some other place
+accnone,Location able to access the internet: None of the above
+accref,Location able to access the internet: Refusal
+accdk,Location able to access the internet: Don't know
+accna,Location able to access the internet: No answer
+fampref,"Preference settings, how familiar"
+famadvs,"Advanced search, how familiar"
+fampdf,"PDF, how familiar"
+mcclose,Online/mobile communication makes people feel closer to one another
+mcinter,Online/mobile communication makes work and personal life interrupt each other
+mccoord,Online/mobile communication makes it easy to coordinate and manage activities
+mcpriv,Online/mobile communication undermines personal privacy
+mcmsinf,Online/mobile communication exposes people to misinformation
+chldo12,Number of children aged 12 or over
+gndro12a,Gender of child aged 12 or over
+gndro12b,Gender of child aged 12 or over
+ageo12,Age of child aged 12 or over
+hhlio12,Child aged 12 or over lives in same household
+closeo12,How close to child aged 12 or over
+ttmino12,"Travel time to child aged 12 or over, in minutes"
+speako12,"Speak with child aged 12 or over in person, how often"
+scrno12,"Speak with child aged 12 or over and see each other on a screen, how often"
+phoneo12,"Speak with child aged 12 or over using a phone, how often"
+como12,"Communicate with child aged 12 or over via text, email or messaging apps, how often"
+c19spo12,"Speak with child aged 12 or over in person, how often compared with before COVID-19"
+c19mco12,"Online/mobile communication with child aged 12 or over, how often compared with before COVID-19"
+livpnt,Parents still alive
+pntmofa,"Parents still alive, mother or father"
+agepnt,Age of parent
+hhlipnt,Parent lives in same household
+closepnt,How close to parent
+ttminpnt,"Travel time to parent, in minutes"
+speakpnt,"Speak with parent in person, how often"
+scrnpnt,"Speak with parent and see each other on a screen, how often"
+phonepnt,"Speak with parent using a phone, how often"
+compnt,"Communicate with parent via text, email or messaging apps, how often"
+c19sppnt,"Speak with parent in person, how often compared with before COVID-19"
+c19mcpnt,"Online/mobile communication with parent, how often compared with before COVID-19"
+stfmjob,How satisfied are you in your main job
+trdawrk,"Too tired after work to enjoy things like doing at home, how often"
+jbprtfp,"Job prevents you from giving time to partner/family, how often"
+pfmfdjba,"Partner/family fed up with pressure of your job, how often"
+dcsfwrka,Current job: can decide time start/finish work
+wrkhome,"Work from home or place of choice, how often"
+c19whome,"Work from home or place of choice, how often compared with before COVID-19"
+c19wplch,Work place change occurred as a result of COVID-19
+wrklong,"Employees expected to work overtime, how often"
+wrkresp,"Employees expected to be responsive outside working hours, how often"
+c19whacc,"Work from home or place of choice,  how accepted compared with before COVID-19"
+mansupp,"Line manager supports employees in balancing work, how much"
+manhlp,"Line manager gives work-related help, how likely"
+manwrkpl,"Line manager and respondent are at the same workplace, how often"
+manspeak,"Speak with line manager about work in person, how often"
+manscrn,"Speak with line manager about work and see each other on a screen, how often"
+manphone,"Speak with line about work manager using a phone, how often"
+mancom,"Communicate with line manager about work via text, email or messaging apps, how often"
+teamfeel,"Feel like part of your team, how much"
+wrkextra,Take on extra responsibilities at work without being paid more
+colprop,Proportion of colleagues based at the same location
+colhlp,"Colleagues give work-related help, how likely"
+colspeak,"Speak with colleagues in person, how often"
+colscrn,"Speak with colleagues about work and see each other on a screen, how often"
+colphone,"Speak with colleagues about work using a phone, how often"
+colcom,"Communicate with colleagues about work via text, email or messaging apps, how often"
+c19spwrk,"Speak with people you work with in person, how often compared with before COVID-19"
+c19mcwrk,"Online/mobile communication with people you work with, how often compared with before COVID-19"
+mcwrkhom,Online/mobile communication makes it easy to work from home or place of choice
+ipcrtiv,Important to think new ideas and being creative
+imprich,"Important to be rich, have money and expensive things"
+ipeqopt,Important that people are treated equally and have equal opportunities
+ipshabt,Important to show abilities and be admired
+impsafe,Important to live in secure and safe surroundings
+impdiff,Important to try new and different things in life
+ipfrule,Important to do what is told and follow rules
+ipudrst,Important to understand different people
+ipmodst,"Important to be humble and modest, not draw attention"
+ipgdtim,Important to have a good time
+impfree,Important to make own decisions and be free
+iphlppl,Important to help people and care for others well-being
+ipsuces,Important to be successful and that people recognise achievements
+ipstrgv,Important that government is strong and ensures safety
+ipadvnt,Important to seek adventures and have an exciting life
+ipbhprp,Important to behave properly
+iprspot,Important to get respect from others
+iplylfr,Important to be loyal to friends and devote to people close
+impenv,Important to care for nature and environment
+imptrad,Important to follow traditions and customs
+impfun,Important to seek fun and things that give pleasure
+testii1,"Imagine large numbers of people limit energy use, how likely reduce climate change"
+testii2,"How likely, large numbers of people limit energy use"
+testii3,"How likely, governments in enough countries take action to reduce climate change"
+testii4,"Imagine large numbers of people limit energy use, how likely reduce climate change"
+testii5,"How likely, large numbers of people limit energy use"
+testii6,"How likely, governments in enough countries take action to reduce climate change"
+testii7,"Imagine large numbers of people limit energy use, how likely reduce climate change"
+testii8,"How likely, large numbers of people limit energy use"
+testii9,"How likely, governments in enough countries take action to reduce climate change"
+secgrdec,Small secret group of people responsible for making all major decisions in world politics
+scidecpb,"Groups of scientists manipulate, fabricate, or suppress evidence in order to deceive the public"
+admc19,Administration of COVID-19 questions
+panpriph,More important for governments to prioritise public health or economic activity when fighting a pandemic
+panmonpb,More important for governments to monitor and track the public or to maintain public privacy when fighting a pandemic
+govpriph,More important for governments to prioritise public health or economic activity
+govmonpb,More important for governments to monitor and track the public or to maintain public privacy
+panfolru,More important to follow government rules or to make own decisions when fighting a pandemic
+panclobo,How important for country to close its borders when fighting a pandemic
+panresmo,How important to restrict people's movement between different parts of country when fighting a pandemic
+gvhanc19,How satisfied with government's handling of COVID-19 in country
+gvjobc19,How satisfied with government's response to COVID-19: people who have experienced job/income losses
+gveldc19,How satisfied with government's response to COVID-19: elderly people in care homes
+gvfamc19,How satisfied with government's response to COVID-19: families with school-aged children
+hscopc19,How satisfied with the way health services coped with COVID-19 and its consequences in country
+gvbalc19,How the government balanced protecting the economy and people's health when responding to COVID-19 in country
+gvimpc19,To what extent trust the government to deal with the impact of COVID-19 in country
+gvconc19,COVID-19 is result of deliberate and concealed efforts of some government or organisation
+respc19,Respondent had COVID-19
+reshhc19,Anyone living with respondent had COVID-19
+hapljc19,Things happened since start of COVID-19: was made redundant/lost job
+hapirc19,Things happened since start of COVID-19: income from job was reduced
+hapwrc19,Things happened since start of COVID-19: working hours were reduced
+hapfuc19,Things happened since start of COVID-19: was furloughed
+hapfoc19,Things happened since start of COVID-19: was forced to take unpaid leave/holiday
+hapnoc19,Things happened since start of COVID-19: none of these
+hapnwc19,Things happened since start of COVID-19: not in work since start of COVID-19
+hapnpc19,Things happened since start of COVID-19: not applicable
+haprec19,Things happened since start of COVID-19: refusal
+hapdkc19,Things happened since start of COVID-19: don't know
+hapnac19,Things happened since start of COVID-19: no answer
+icvacc19,COVID-19 vaccine approved by national regulatory authority and available to the public in country
+getavc19,Whether respondent will get vaccinated against COVID-19 with vaccine approved by the national regulatory authority in country
+getnvc19,Whether respondent would get vaccinated against COVID-19 if vaccine is approved by the national regulatory authority in country
+vdcond,"Interview conducted, how"
+vdovexre,Respondent's overall experience of taking part in survey
+vdtype,Type of device used for video interview
+vdtpsvre,Respondent's experience of technical problems: starting video call
+vdtpitre,Respondent's experience of technical problems: internet connection affecting video call
+vdtpscre,Respondent's experience of technical problems: displaying showcards
+vdtpaure,Respondent's experience of technical problems: audio not being clear
+vdtpvire,Respondent's experience of technical problems: video display not being clear
+vdtpoire,Respondent's experience of technical problems: other issue
+vdtpntre,Respondent's experience of technical problems: no technical issues
+vdtpapre,Respondent's experience of technical problems: not applicable
+vdtprere,Respondent's experience of technical problems: refusal
+vdtpdkre,Respondent's experience of technical problems: don't know
+vdtpnare,Respondent's experience of technical problems: no answer
+inwds,Start of interview
+ainws,Start of section A
+ainwe,End of section A
+binwe,End of section B
+cinwe,End of section C
+dinwe,End of section D
+finwe,End of section F
+ginwe,End of section G
+hinwe,End of section H
+iinwe,End of section I
+kinwe,End of section K
+vinwe,End of section V
+inwde,End of interview
+jinws,Start of section J
+jinwe,End of section J
+inwtm,"Interview length in minutes, main questionnaire"
+domain,Sampling domain

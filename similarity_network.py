@@ -67,15 +67,11 @@ st.title('Semantic similarity Network of Questionnaire Items')
 # https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db
 # Save and read graph as HTML file (on Streamlit Sharing)
 try:
-   path = '/tmp'
-   G_pyvis.save_graph(f'{path}/pyvis_graph.html')
-   HtmlFile = open(f'{path}/pyvis_graph.html','r',encoding='utf-8')
+   G_pyvis.save_graph('pyvis_graph.html')
+   HtmlFile = open('pyvis_graph.html','r',encoding='utf-8')
 # Save and read graph as HTML file (locally)
 except:
-    path = '/html_files'
-    G_pyvis.save_graph(f'{path}/pyvis_graph.html')
-    HtmlFile = open(f'{path}/pyvis_graph.html','r',encoding='utf-8')
-    
+    pass    
     
 # Load HTML into HTML component for display on Streamlit
 components.html(HtmlFile.read())

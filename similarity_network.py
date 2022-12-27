@@ -65,10 +65,10 @@ output_name=f'{network_name}_pyvis.html'
 html_code = G_pyvis.save_html(file=output_name)
 
 
-# Commit and push the HTML code to GitHub
-!git add network.html
-!git commit -m "Add Semantic_pyvis.html"
-!git push
+# # Commit and push the HTML code to GitHub
+# !git add network.html
+# !git commit -m "Add Semantic_pyvis.html"
+# !git push
 
 
 st.title('Semantic Similarity Network of Questionnaire Items')

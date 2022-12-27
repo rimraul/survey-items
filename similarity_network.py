@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 from pyvis import network as net
 import streamlit as st
+import streamlit.components.v1 as components
 
 file_name="ESS10_labels.csv"
 df = pd.read_csv(file_name)
@@ -74,6 +75,6 @@ except:
     pass    
     
 # Load HTML into HTML component for display on Streamlit
-sp.components.html(HtmlFile.read())
+components.html(HtmlFile.read())
 
 

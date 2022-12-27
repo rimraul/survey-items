@@ -65,21 +65,22 @@ import streamlit.components.v1 as components
 
 st.title('Semantic similarity Network of Questionnaire Items')
 
-# https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db
-# Save and read graph as HTML file (on Streamlit Sharing)
-try:
-    path = '/tmp'
-#     G_pyvis.save_graph(f'{path}/pyvis_graph.html')
-#     HtmlFile = open(f'{path}/pyvis_graph.html','r',encoding='utf-8')
-    HtmlFile = open(f'{path}/Semantic_pyvis_2022-12-27_0016.html','r',encoding='utf-8')
-# Save and read graph as HTML file (locally)
-except:
-    path = '/html_files'
-#     G_pyvis.save_graph(f'{path}/pyvis_graph.html')
-#     HtmlFile = open(f'{path}/pyvis_graph.html','r',encoding='utf-8')
-    HtmlFile = open(f'{path}/Semantic_pyvis_2022-12-27_0016.html','r',encoding='utf-8')
-finally:
-    HtmlFile = open('tmp/Semantic_pyvis_2022-12-27_0016.html','r',encoding='utf-8')
+# # https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db
+# # Save and read graph as HTML file (on Streamlit Sharing)
+# try:
+#     path = '/tmp'
+# #     G_pyvis.save_graph(f'{path}/pyvis_graph.html')
+# #     HtmlFile = open(f'{path}/pyvis_graph.html','r',encoding='utf-8')
+#     HtmlFile = open(f'{path}/Semantic_pyvis_2022-12-27_0016.html','r',encoding='utf-8')
+# # Save and read graph as HTML file (locally)
+# except:
+#     path = '/html_files'
+# #     G_pyvis.save_graph(f'{path}/pyvis_graph.html')
+# #     HtmlFile = open(f'{path}/pyvis_graph.html','r',encoding='utf-8')
+#     HtmlFile = open(f'{path}/Semantic_pyvis_2022-12-27_0016.html','r',encoding='utf-8')
+
+    
+HtmlFile = open('tmp/Semantic_pyvis_2022-12-27_0016.html','r',encoding='utf-8')
     
 # Load HTML into HTML component for display on Streamlit
 components.html(HtmlFile.read(), height=435)

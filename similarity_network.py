@@ -69,14 +69,15 @@ st.title('Semantic similarity Network of Questionnaire Items')
 # Save and read graph as HTML file (on Streamlit Sharing)
 try:
     path = '/tmp'
-    G_pyvis.save_graph(f'{path}/pyvis_graph.html')
+#     G_pyvis.save_graph(f'{path}/pyvis_graph.html')
 #     HtmlFile = open(f'{path}/pyvis_graph.html','r',encoding='utf-8')
     HtmlFile = open(f'{path}/Semantic_pyvis_2022-12-27_0016.html','r',encoding='utf-8')
 # Save and read graph as HTML file (locally)
 except:
     path = '/html_files'
-    G_pyvis.save_graph(f'{path}/pyvis_graph.html')
-    HtmlFile = open(f'{path}/pyvis_graph.html','r',encoding='utf-8')
+#     G_pyvis.save_graph(f'{path}/pyvis_graph.html')
+#     HtmlFile = open(f'{path}/pyvis_graph.html','r',encoding='utf-8')
+    HtmlFile = open(f'{path}/Semantic_pyvis_2022-12-27_0016.html','r',encoding='utf-8')
     
 # Load HTML into HTML component for display on Streamlit
 components.html(HtmlFile.read(), height=435)

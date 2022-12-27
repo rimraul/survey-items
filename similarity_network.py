@@ -78,19 +78,4 @@ except:
     HtmlFile = open(f'{path}/pyvis_graph.html','r',encoding='utf-8')
     
 # Load HTML into HTML component for display on Streamlit
-components.html(HtmlFile.read())
-
-
-    try:
-        
-        drug_net.save_graph(f'{path}/pyvis_graph.html')
-        HtmlFile = open(f'{path}/pyvis_graph.html', 'r', encoding='utf-8')
-
-    # Save and read graph as HTML file (locally)
-    except:
-        path = '/html_files'
-        drug_net.save_graph(f'{path}/pyvis_graph.html')
-        HtmlFile = open(f'{path}/pyvis_graph.html', 'r', encoding='utf-8')
-
-    # Load HTML file in HTML component for display on Streamlit page
-    components.html(HtmlFile.read(), height=435)
+components.html(HtmlFile.read(), height=435)

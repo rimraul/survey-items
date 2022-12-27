@@ -59,10 +59,11 @@ date_time_stamp = now.strftime('%Y-%m-%d_%H%M')
 network_name='Semantic'
 G_pyvis.toggle_physics(False)
 G_pyvis.show_buttons(filter_=True) #(filter_=['physics'])
-# output_name=f'{network_name}_pyvis_{date_time_stamp}.html'
-output_name=f'{network_name}_pyvis.html'
-# G_pyvis.show(output_name)
-html_code = G_pyvis.save_html(file=output_name)
+
+# # output_name=f'{network_name}_pyvis_{date_time_stamp}.html'
+# output_name=f'{network_name}_pyvis.html'
+# # G_pyvis.show(output_name)
+# html_code = G_pyvis.save_html(file=output_name)
 
 
 # # Commit and push the HTML code to GitHub
@@ -73,7 +74,7 @@ html_code = G_pyvis.save_html(file=output_name)
 
 st.title('Semantic Similarity Network of Questionnaire Items')
 
-st.markdown(html_code, unsafe_allow_html=True)
+st.markdown(G_pyvis, unsafe_allow_html=True)
 
 # # https://towardsdatascience.com/how-to-deploy-interactive-pyvis-network-graphs-on-streamlit-6c401d4c99db
 # # Save and read graph as HTML file (on Streamlit Sharing)

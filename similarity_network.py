@@ -72,7 +72,7 @@ import streamlit.components.v1 as components
 # # !git push
 
 
-# st.title('Semantic Similarity Network of Questionnaire Items')
+st.title('Semantic Similarity Network of Questionnaire Items')
 
 # st.markdown(G_pyvis, unsafe_allow_html=True)
 
@@ -96,4 +96,4 @@ import streamlit.components.v1 as components
 HtmlFile = open('tmp/Semantic_pyvis_2022-12-27_0016.html','r',encoding='utf-8')
     
 # Load HTML into HTML component for display on Streamlit
-components.html(HtmlFile.read(), height=435)
+components.html(HtmlFile.read(), height=600)

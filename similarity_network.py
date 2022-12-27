@@ -74,6 +74,6 @@ except:
     pass    
     
 # Load HTML into HTML component for display on Streamlit
-components.html(HtmlFile.read())
+sp.components.html(HtmlFile.read())
 
 

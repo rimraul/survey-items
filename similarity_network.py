@@ -5,6 +5,9 @@ from pyvis import network as net
 import streamlit as st
 import streamlit.components.v1 as components
 
+# 0. Generate pyvis graphs dynamically from github (unable to acomplish so far)
+# 1. (Alternative) Generate pyvis graphs locally and upload to hithub, e.g.:
+
 # file_name="ESS10_labels.csv"
 # df = pd.read_csv(file_name)
 # df.columns=["name","label"]
@@ -71,6 +74,8 @@ import streamlit.components.v1 as components
 # # !git commit -m "Add Semantic_pyvis.html"
 # # !git push
 
+
+# 2. Show the graph in Streamlit
 
 st.title('Semantic Similarity Network of Questionnaire Items')
 

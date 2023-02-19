@@ -119,10 +119,13 @@ selected_file = [f for f in files if option in f][0]
 HtmlFile = open(f'tmp/{selected_file}','r',encoding='utf-8')
     
 # Load HTML into HTML component for display on Streamlit
+st.write("Zoom in into the graph for more details.")
 components.html(HtmlFile.read(), height=600)
 
 
 ### Add semantic search text box
+
+st.title('Semantic Search for Questionnaire Items')
 
 file_name='Survey items 2023-02-19_1357.csv'
 df=pd.read_csv(file_name)

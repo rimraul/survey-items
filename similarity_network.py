@@ -158,8 +158,18 @@ query = st.text_input(
 #     placeholder=st.session_state.placeholder,
 # )
 
+limits = st.text_input(
+    "Enter the number of hits to be returned 👇")
+
+if limits:
+    pass
+else:
+    limits=20
+
+
+
 if query:
-    results=search(query,20)
+    results=search(query,k=limits)
     results.loc[len(results)]=['Query',query,0.01]
     st.write("The closests items (lowest scores) are: ", results)
     

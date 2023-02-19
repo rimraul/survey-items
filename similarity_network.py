@@ -146,7 +146,7 @@ st.write("Zoom in into the graph for more details (item labels will become visib
 components.html(HtmlFile.read(), height=600)
 
 
-### Add semantic search text box
+# 3. Add semantic search text box
 
 st.title('Semantic Search for Questionnaire Items')
 

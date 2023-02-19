@@ -99,6 +99,12 @@ st.title('Semantic Similarity Network of Questionnaire Items')
     
 import streamlit as st
 
+
+if "visibility" not in st.session_state:
+    st.session_state.visibility = "visible"
+    st.session_state.disabled = False
+    
+
 option = st.selectbox(
     'Select one of the surveys:',
     ('V-Dem', 'ESS9', 'ESS10'))

@@ -1,0 +1,1312 @@
+,survey,item
+0,V-Dem,Freedom to research and teach
+1,V-Dem,Vertical accountability index
+2,V-Dem,Party institutionalization index
+3,V-Dem,Obligatory referendum super majority
+4,V-Dem,Exclusion by Socio-Economic Group
+5,V-Dem,Election type 0
+6,V-Dem,Referendums administrative threshold
+7,V-Dem,Election type 6
+8,V-Dem,Plebiscite index
+9,V-Dem,Engaged society
+10,V-Dem,Access to state business opportunities by urban-rural location
+11,V-Dem,Executive bribery and corrupt exchanges
+12,V-Dem,Party linkages
+13,V-Dem,Share of population with suffrage
+14,V-Dem,Participatory component index
+15,V-Dem,Initiatives permitted
+16,V-Dem,Enforcement of Constitutional changes through popular vote
+17,V-Dem,Weaker civil liberties population
+18,V-Dem,Reasoned justification
+19,V-Dem,HOS = HOG
+20,V-Dem,Distinct party platforms
+21,V-Dem,Freedom from forced labor for women
+22,V-Dem,Particularistic or public goods
+23,V-Dem,Chief executive appointment by upper chamber
+24,V-Dem,Additive polyarchy index
+25,V-Dem,Obligatory referendum administrative threshold
+26,V-Dem,Referendums participation threshold
+27,V-Dem,CSO entry and exit
+28,V-Dem,Equality before the law and individual liberty index
+29,V-Dem,HOS directly elected
+30,V-Dem,Women political empowerment index
+31,V-Dem,Liberal component index
+32,V-Dem,HOG appointment in practice
+33,V-Dem,Legislature controls resources
+34,V-Dem,Institutional autonomy
+35,V-Dem,Legislative or constituent assembly election
+36,V-Dem,Chief executive no longer elected
+37,V-Dem,Means-tested v. universalistic policy
+38,V-Dem,Women political participation index
+39,V-Dem,Election type 5
+40,V-Dem,Party ban
+41,V-Dem,Legislature corrupt activities
+42,V-Dem,Initiatives participation threshold
+43,V-Dem,HOS removal by other in practice 4
+44,V-Dem,Access to state jobs by urban-rural location
+45,V-Dem,Regimes of the world -- the RoW measure
+46,V-Dem,Access to public services distributed by social group
+47,V-Dem,Compliance with high court
+48,V-Dem,Freedom from torture
+49,V-Dem,Executive corruption index
+50,V-Dem,Opposition parties autonomy
+51,V-Dem,Election other electoral violence
+52,V-Dem,Legislature closed down or aborted
+53,V-Dem,Horizontal accountability index
+54,V-Dem,Female journalists
+55,V-Dem,Initiatives signature-gathering period
+56,V-Dem,Local offices relative power
+57,V-Dem,Legislature bicameral
+58,V-Dem,Freedom of academic and cultural expression
+59,V-Dem,HOS removal by other in practice
+60,V-Dem,Freedom of discussion for women
+61,V-Dem,Egalitarian democracy index
+62,V-Dem,Access to public services distributed by urban-rural location
+63,V-Dem,Political corruption index
+64,V-Dem,HOG removal by other in practice 2
+65,V-Dem,Freedom of Expression and Alternative Sources of Information index
+66,V-Dem,Regional offices relative power
+67,V-Dem,Internet censorship effort
+68,V-Dem,Exclusion by Political Group index
+69,V-Dem,Initiatives administrative threshold
+70,V-Dem,HOG appoints cabinet in practice
+71,V-Dem,Access to state jobs by social group
+72,V-Dem,Candidate selection-national/local
+73,V-Dem,Deliberative component index
+74,V-Dem,Educational equality
+75,V-Dem,Regime corruption
+76,V-Dem,Public sector corrupt exchanges
+77,V-Dem,Obligatory referendum participation threshold
+78,V-Dem,Plebiscites administrative threshold
+79,V-Dem,CSO women's participation
+80,V-Dem,Legislative or constituent assembly election aborted
+81,V-Dem,Power distributed by social group
+82,V-Dem,Elected officials index
+83,V-Dem,Compliance with judiciary
+84,V-Dem,Access to state business opportunities by social group
+85,V-Dem,Women civil society participation index
+86,V-Dem,Chief executive appointment by upper chamber implicit approval
+87,V-Dem,Citizen-initiated component of direct popular vote index
+88,V-Dem,Regional government index
+89,V-Dem,Equal distribution of resources index
+90,V-Dem,Access to justice
+91,V-Dem,Property rights
+92,V-Dem,Lower chamber elected
+93,V-Dem,HOS appointed by legislature
+94,V-Dem,Common good
+95,V-Dem,Freedom of expression index
+96,V-Dem,HOG removal by other in practice 4
+97,V-Dem,Social group equality in respect for civil liberties
+98,V-Dem,Initiatives signatures %
+99,V-Dem,Social class equality in respect for civil liberty
+100,V-Dem,Power distributed by socioeconomic position
+101,V-Dem,Freedom of association thick index
+102,V-Dem,Judicial accountability
+103,V-Dem,Legislative constraints on the executive index
+104,V-Dem,Referendums permitted
+105,V-Dem,Local government index
+106,V-Dem,HOG dismisses ministers in practice
+107,V-Dem,Access to state jobs by gender
+108,V-Dem,Print/broadcast media critical
+109,V-Dem,Media self-censorship
+110,V-Dem,Alternative sources of information index
+111,V-Dem,Initiatives super majority
+112,V-Dem,Participatory democracy index
+113,V-Dem,Election type 7
+114,V-Dem,HOG removal by other in practice 3
+115,V-Dem,Freedom of religion
+116,V-Dem,Freedom of discussion
+117,V-Dem,Access to state business opportunities by political group
+118,V-Dem,Lower chamber female legislators
+119,V-Dem,Government censorship effort --- Media
+120,V-Dem,Legislature questions officials in practice
+121,V-Dem,Campus integrity
+122,V-Dem,Regimes of the world -- the RoW measure with categories for ambiguous cases
+123,V-Dem,Exclusion by Gender index
+124,V-Dem,Rule of law index
+125,V-Dem,Obligatory referendum index
+126,V-Dem,Referendums super majority
+127,V-Dem,Property rights for men
+128,V-Dem,Access to state jobs by political group
+129,V-Dem,Diagonal accountability index
+130,V-Dem,Legislative party cohesion
+131,V-Dem,HOS selection by legislature in practice
+132,V-Dem,Hereditary dimension index
+133,V-Dem,Electoral democracy index
+134,V-Dem,Women civil liberties index
+135,V-Dem,Referendums approval threshold
+136,V-Dem,Plebiscites super majority
+137,V-Dem,Occurrence of citizen-initiatives this year
+138,V-Dem,HOG selection by legislature in practice
+139,V-Dem,Urban-rural location equality in respect for civil liberties
+140,V-Dem,Egalitarian component index
+141,V-Dem,Equal access index
+142,V-Dem,Plebiscites permitted
+143,V-Dem,Election vote buying
+144,V-Dem,HOG removal by other in practice
+145,V-Dem,Respect counterarguments
+146,V-Dem,Political group equality in respect for civil liberties
+147,V-Dem,Relative power of the HOG
+148,V-Dem,Referendums signature-gathering period
+149,V-Dem,Multiplicative polyarchy index
+150,V-Dem,Equal protection index
+151,V-Dem,Property rights for women
+152,V-Dem,Power distributed by gender
+153,V-Dem,HOS appointment in practice
+154,V-Dem,Print/broadcast media perspectives
+155,V-Dem,Health equality
+156,V-Dem,CSO participatory environment
+157,V-Dem,Neopatrimonial Rule Index
+158,V-Dem,Initiatives approval threshold
+159,V-Dem,Freedom from forced labor for men
+160,V-Dem,Freedom from political killings
+161,V-Dem,Media bias
+162,V-Dem,HOS dismisses ministers in practice
+163,V-Dem,Executive respects constitution
+164,V-Dem,Presidentialism Index
+165,V-Dem,Plebiscites approval threshold
+166,V-Dem,Confidence dimension index
+167,V-Dem,Division of power index
+168,V-Dem,Liberal democracy index
+169,V-Dem,CSO consultation
+170,V-Dem,Party organizations
+171,V-Dem,Executive electoral regime index
+172,V-Dem,Ruling party dimension index
+173,V-Dem,Civil liberties index
+174,V-Dem,Political civil liberties index
+175,V-Dem,Access to state jobs by socio-economic position
+176,V-Dem,Percentage of indirectly elected legislators upper chamber
+177,V-Dem,Barriers to parties
+178,V-Dem,HOS removal by other in practice 3
+179,V-Dem,Executive oversight
+180,V-Dem,Election other voting irregularities
+181,V-Dem,Election government intimidation
+182,V-Dem,Harassment of journalists
+183,V-Dem,Election voter registry
+184,V-Dem,Civil society participation index
+185,V-Dem,Public sector corruption index
+186,V-Dem,HOS appoints cabinet in practice
+187,V-Dem,Percentage of population with suffrage
+188,V-Dem,HOS removal by other in practice 2
+189,V-Dem,HOG removal by legislature in practice
+190,V-Dem,Freedom of academic exchange and dissemination
+191,V-Dem,Freedom of domestic movement
+192,V-Dem,Legislature opposition parties
+193,V-Dem,Power distributed by urban-rural location
+194,V-Dem,EMB autonomy
+195,V-Dem,Occurrence of obligatory referendum this year
+196,V-Dem,Elections multiparty
+197,V-Dem,Presidential election
+198,V-Dem,Academic Freedom Index
+199,V-Dem,Access to public services distributed by gender
+200,V-Dem,Local government exists
+201,V-Dem,Legislature investigates in practice
+202,V-Dem,Election type 4
+203,V-Dem,Occurrence of referendum this year
+204,V-Dem,Transparent laws with predictable enforcement
+205,V-Dem,Obligatory referendum credible threat
+206,V-Dem,Clean elections index
+207,V-Dem,Religious organization repression
+208,V-Dem,Access to state business opportunities by socio-economic position
+209,V-Dem,Lower court independence
+210,V-Dem,Physical violence index
+211,V-Dem,Obligatory referendum approval threshold
+212,V-Dem,Electoral regime index
+213,V-Dem,Public sector theft
+214,V-Dem,Percentage of indirectly elected legislators lower chamber
+215,V-Dem,Judicial corruption decision
+216,V-Dem,Upper chamber elected
+217,V-Dem,Referendums signatures %
+218,V-Dem,Popular referendum credible threat
+219,V-Dem,Plebiscites credible threat
+220,V-Dem,Freedom of domestic movement for men
+221,V-Dem,Direct popular vote index
+222,V-Dem,Legislative electoral regime index
+223,V-Dem,Popular initiative credible threat
+224,V-Dem,Judicial constraints on the executive index
+225,V-Dem,Election type 1
+226,V-Dem,Access to public services distributed by socio-economic position
+227,V-Dem,Freedom from forced labor
+228,V-Dem,HOG directly elected
+229,V-Dem,Gender equality in respect for civil liberties
+230,V-Dem,Direct election dimension index
+231,V-Dem,Core civil society index
+232,V-Dem,Regional government exists
+233,V-Dem,National party control
+234,V-Dem,Divided party control index
+235,V-Dem,Relative power of the HOS
+236,V-Dem,High court independence
+237,V-Dem,Access to justice for men
+238,V-Dem,Legislature directly elected
+239,V-Dem,CSO repression
+240,V-Dem,Clientelism Index
+241,V-Dem,Deliberative democracy index
+242,V-Dem,Top-Down component of direct popular vote index
+243,V-Dem,Presidential election aborted
+244,V-Dem,Local government elected
+245,V-Dem,Plebiscites participation threshold
+246,V-Dem,Access to justice for women
+247,V-Dem,Freedom of discussion for men
+248,V-Dem,Accountability index
+249,V-Dem,Exclusion by Social Group index
+250,V-Dem,Initiatives signature-gathering time limit
+251,V-Dem,Executive embezzlement and theft
+252,V-Dem,Freedom of domestic movement for women
+253,V-Dem,Election free and fair
+254,V-Dem,Military dimension index
+255,V-Dem,Regional government elected
+256,V-Dem,Access to public services distributed by political group
+257,V-Dem,Exclusion by Urban-Rural Location index
+258,V-Dem,Freedom of foreign movement
+259,V-Dem,Party branches
+260,V-Dem,Range of consultation
+261,V-Dem,Rigorous and impartial public administration
+262,V-Dem,Access to state business opportunities by gender
+263,V-Dem,Electoral component index
+264,V-Dem,Private civil liberties index
+265,V-Dem,Popular initiative index
+266,V-Dem,Occurrence of plebiscite this year
+267,V-Dem,Popular referendum index
+268,V-Dem,EMB capacity
+269,ESS9,Partner doing last 7 days: paid work
+270,ESS9,Father's occupation when respondent 14
+271,ESS9,Fourteenth person in household: relationship to respondent
+272,ESS9,Respondent or household member victim of burglary/assault last 5 years
+273,ESS9,Trust in the European Parliament
+274,ESS9,Ever lived with a spouse or partner for 3 months or more
+275,ESS9,Worked in political party or action group last 12 months
+276,ESS9,Religion or denomination belonging to at present
+277,ESS9,"Highest level of education, Serbia"
+278,ESS9,"Father's highest level of education, Estonia"
+279,ESS9,Important to behave properly
+280,ESS9,"Leave full-time education, age too young. SPLIT BALLOT"
+281,ESS9,"How often socially meet with friends, relatives or colleagues"
+282,ESS9,"By and large, people get what they deserve"
+283,ESS9,"Religion or denomination belonging to at present, Netherlands"
+284,ESS9,Country of birth
+285,ESS9,"Father's highest level of education, Germany: hoechster allgemeinbildender Schulabschluss"
+286,ESS9,Important to live in secure and safe surroundings
+287,ESS9,Would vote for [country] to become member of European Union or remain outside
+288,ESS9,Year of birth
+289,ESS9,"Highest level of education, Cyprus"
+290,ESS9,Father's employment status when respondent 14
+291,ESS9,Doing last 7 days: other
+292,ESS9,"Party voted for in last national election 3, Lithuania (third vote, party)"
+293,ESS9,"Father's highest level of education, Lithuania"
+294,ESS9,Year of birth of fifteenth person in household
+295,ESS9,Trust in the United Nations
+296,ESS9,"Father's highest level of education, Sweden"
+297,ESS9,"Partner's highest level of education, Belgium"
+298,ESS9,State of education in country nowadays
+299,ESS9,Citizen of country
+300,ESS9,Gender of seventh person in household
+301,ESS9,Relationship with husband/wife/partner currently living with
+302,ESS9,Year first married
+303,ESS9,Convinced that in the long run people compensated for injustices
+304,ESS9,"Compared other people in country, fair chance achieve level of education I seek"
+305,ESS9,"Party voted for in last national election, Spain"
+306,ESS9,Mother's employment status when respondent 14
+307,ESS9,"Highest level of education, Finland"
+308,ESS9,"Highest level of education, Germany: hoechster Ausbildungsabschluss"
+309,ESS9,"Mother's highest level of education, Austria"
+310,ESS9,"Partner's highest level of education, Montenegro"
+311,ESS9,"Highest level of education, Italy"
+312,ESS9,Ever belonging to particular religion or denomination
+313,ESS9,Fair level of [weekly/monthly/annual] net [pay/pensions/social benefits] for you
+314,ESS9,Trust in the police
+315,ESS9,"Would vote for [country] to remain member of European Union or leave, United Kingdom"
+316,ESS9,"Mother's highest level of education, Denmark"
+317,ESS9,"Father's highest level of education, Switzerland"
+318,ESS9,Gender of fourteenth person in household
+319,ESS9,"Improve knowledge/skills: course/lecture/conference, last 12 months"
+320,ESS9,Ashamed if close family member gay or lesbian
+321,ESS9,"Religion or denomination belonging to in the past, Ireland"
+322,ESS9,"Party voted for in last national election, United Kingdom"
+323,ESS9,Year of birth of seventh person in household
+324,ESS9,"Religion or denomination belonging to at present, Montenegro"
+325,ESS9,Partner doing last 7 days: no answer
+326,ESS9,"Party voted for in last national election, France (ballot 1)"
+327,ESS9,"Start living with partner not married to, age too young. SPLIT BALLOT"
+328,ESS9,Mother's occupation when respondent 14
+329,ESS9,"Highest level of education, Croatia"
+330,ESS9,Discrimination of respondent's group: refusal
+331,ESS9,Contacted politician or government official last 12 months
+332,ESS9,"Partner's highest level of education, United Kingdom: Up to Ph.D or equivalent"
+333,ESS9,"Mother's highest level of education, Croatia"
+334,ESS9,"Religion or denomination belonging to in the past, Sweden"
+335,ESS9,Any period of unemployment and work seeking within last 5 years
+336,ESS9,Second person in household: relationship to respondent
+337,ESS9,"Mother's highest level of education, Poland"
+338,ESS9,"Doing last 7 days: unemployed, not actively looking for job"
+339,ESS9,Important to make own decisions and be free
+340,ESS9,"Which party feel closer to, Slovenia"
+341,ESS9,Subjective general health
+342,ESS9,Important to do what is told and follow rules
+343,ESS9,Voted last national election
+344,ESS9,"Religion or denomination belonging to at present, United Kingdom"
+345,ESS9,"Household's total net income, all sources"
+346,ESS9,"Mother's highest level of education, Lithuania"
+347,ESS9,Year of birth of thirteenth person in household
+348,ESS9,"Mother's highest level of education, Norway"
+349,ESS9,Responsible for supervising other employees
+350,ESS9,Third person in household: relationship to respondent
+351,ESS9,"Religion or denomination belonging to at present, Iceland"
+352,ESS9,Important to care for nature and environment
+353,ESS9,"Party voted for in last national election, Serbia"
+354,ESS9,"Father's highest level of education, Netherlands"
+355,ESS9,Take part in social activities compared to others of same age
+356,ESS9,"Which party feel closer to, Estonia"
+357,ESS9,"Which party feel closer to, France"
+358,ESS9,"Mother's highest level of education, Slovenia"
+359,ESS9,"Partner's highest level of education, France"
+360,ESS9,"Mother's highest level of education, Finland"
+361,ESS9,"Main activity, last 7 days. All respondents. Post coded"
+362,ESS9,"Mother's highest level of education, Hungary"
+363,ESS9,Number of employees respondent has/had
+364,ESS9,Partner doing last 7 days: community or military service
+365,ESS9,Ninth person in household: relationship to respondent
+366,ESS9,"Party voted for in last national election 1, Lithuania (first vote, party)"
+367,ESS9,Doing last 7 days: don't know
+368,ESS9,"Mother's highest level of education, Cyprus"
+369,ESS9,"Highest level of education, France"
+370,ESS9,"Highest level of education, Slovenia"
+371,ESS9,Gender of tenth person in household
+372,ESS9,Important to understand different people
+373,ESS9,Partner's main activity last 7 days
+374,ESS9,Which letter describes your gross pay
+375,ESS9,Most people can be trusted or you can't be too careful
+376,ESS9,How satisfied with the national government
+377,ESS9,"Highest level of education, Hungary"
+378,ESS9,Year of birth of fifth person in household
+379,ESS9,Language most often spoken at home: first mentioned
+380,ESS9,Allowed to influence policy decisions about activities of organisation
+381,ESS9,How interested in politics
+382,ESS9,Year of birth of sixth person in household
+383,ESS9,Political system allows people to have a say in what government does
+384,ESS9,"Mother's highest level of education, Germany: hoechster Ausbildungsabschluss"
+385,ESS9,Able to take active role in political group
+386,ESS9,"Father's highest level of education, Slovakia"
+387,ESS9,"Religion or denomination belonging to in the past, Belgium"
+388,ESS9,Legal marital status
+389,ESS9,Gender of second person in household
+390,ESS9,"Party voted for in last national election, Poland"
+391,ESS9,"Mother's highest level of education, Iceland"
+392,ESS9,Approve if person has full-time job while children aged under 3. SPLIT BALLOT
+393,ESS9,Approve if person have child with partner not married to. SPLIT BALLOT
+394,ESS9,Discrimination of respondent's group: sexuality
+395,ESS9,"Father's highest level of education, Cyprus"
+396,ESS9,"Net [pay/pensions/social benefits] of people same occupation as you in country, how fair"
+397,ESS9,Ever given birth to/ fathered a child
+398,ESS9,"Internet use, how much time on typical day, in minutes"
+399,ESS9,Paid employment or apprenticeship at least 3 months 20 hours weekly
+400,ESS9,Important to get respect from others
+401,ESS9,"Father's highest level of education, Poland"
+402,ESS9,"Party voted for in last national election, Portugal"
+403,ESS9,Influence decision to recruit in country: person has immigrant background
+404,ESS9,Important to have a good time
+405,ESS9,Year first lived with spouse or partner for 3 months or more
+406,ESS9,Number of people living regularly as member of household
+407,ESS9,"Religion or denomination belonging to in the past, Montenegro"
+408,ESS9,"Partner's highest level of education, Italy"
+409,ESS9,"Which party feel closer to, Portugal"
+410,ESS9,"Partner's highest level of education, Austria"
+411,ESS9,"Party voted for in last national election, Netherlands"
+412,ESS9,"Partner's highest level of education, Poland"
+413,ESS9,Year youngest child was born
+414,ESS9,Are or ever been married
+415,ESS9,"Party voted for in last national election 2, Germany"
+416,ESS9,"Retire permanently, ideal age. SPLIT BALLOT"
+417,ESS9,Gender of fifth person in household
+418,ESS9,Gender of thirteenth person in household
+419,ESS9,"Internet use, how often"
+420,ESS9,Important to show abilities and be admired
+421,ESS9,"Father's highest level of education, Croatia"
+422,ESS9,Belonging to particular religion or denomination
+423,ESS9,"Religion or denomination belonging to in the past, Finland"
+424,ESS9,"Father's highest level of education, United Kingdom: Up to 2 or more A-levels or equivalent"
+425,ESS9,Doing last 7 days: education
+426,ESS9,Gender of sixth person in household
+427,ESS9,"Doing last 7 days: housework, looking after children, others"
+428,ESS9,Region
+429,ESS9,"Partner's highest level of education, Cyprus"
+430,ESS9,"Domicile, respondent's description"
+431,ESS9,"Party voted for in last national election, Montenegro"
+432,ESS9,"Second ancestry, European Standard Classification of Cultural and Ethnic Groups"
+433,ESS9,"Religion or denomination belonging to at present, Lithuania"
+434,ESS9,Main source of household income
+435,ESS9,"Father's highest level of education, Hungary"
+436,ESS9,Would vote for [country] to remain member of European Union or leave
+437,ESS9,"Highest level of education, Czechia"
+438,ESS9,Ever had children living in household
+439,ESS9,"Mother's highest level of education, Czechia"
+440,ESS9,"Highest level of education, Netherlands"
+441,ESS9,"Religion or denomination belonging to in the past, Norway"
+442,ESS9,What is your usual [weekly/monthly/annual] gross pay
+443,ESS9,"Religion or denomination belonging to at present, Serbia"
+444,ESS9,"Partner's highest level of education, Spain"
+445,ESS9,"Legal marital status, United Kingdom"
+446,ESS9,Total hours normally worked per week in main job overtime included
+447,ESS9,"Partner doing last 7 days: unemployed, actively looking for job"
+448,ESS9,"Partner's highest level of education, Bulgaria"
+449,ESS9,"Religion or denomination belonging to in the past, Serbia"
+450,ESS9,Gender of twelfth person in household
+451,ESS9,Gender of fifteenth person in household
+452,ESS9,Partner doing last 7 days: retired
+453,ESS9,Discrimination of respondent's group: disability
+454,ESS9,What type of organisation work/worked for
+455,ESS9,"Party voted for in last national election, Estonia"
+456,ESS9,"Differences in wealth in country, how fair"
+457,ESS9,Year of birth of second person in household
+458,ESS9,Twelfth person in household: relationship to respondent
+459,ESS9,"Partner's highest level of education, Ireland"
+460,ESS9,"Country of birth, father"
+461,ESS9,"Religion or denomination belonging to in the past, Poland"
+462,ESS9,"Mother's highest level of education, France"
+463,ESS9,"Highest level of education, Belgium"
+464,ESS9,"Which party feel closer to, Slovakia"
+465,ESS9,Influence decision to recruit in country: person knows someone in organisation
+466,ESS9,"Highest level of education, United Kingdom: Up to 2 or more A-levels or equivalent"
+467,ESS9,Partner's highest level of education
+468,ESS9,Partner doing last 7 days: other
+469,ESS9,"Highest level of education, Lithuania"
+470,ESS9,"Mother's highest level of education, Italy"
+471,ESS9,"Partner, control paid work last 7 days"
+472,ESS9,"Partner doing last 7 days: housework, looking after children, others"
+473,ESS9,Confident that justice always prevails over injustice
+474,ESS9,"Become mother/ father, age too young. SPLIT BALLOT"
+475,ESS9,"Religion or denomination belonging to in the past, United Kingdom"
+476,ESS9,Discrimination of respondent's group: age
+477,ESS9,"Your net [pay/pensions/social benefits] is unfairly low, fair, or unfairly high"
+478,ESS9,"Which party feel closer to, Cyprus"
+479,ESS9,"Highest level of education, Poland"
+480,ESS9,Most of the time people helpful or mostly looking out for themselves
+481,ESS9,"Highest level of education, Norway"
+482,ESS9,"Mother's highest level of education, Estonia"
+483,ESS9,What year you first came to live in country
+484,ESS9,Important to seek adventures and have an exciting life
+485,ESS9,"Party voted for in last national election, Croatia"
+486,ESS9,Belong to minority ethnic group in country
+487,ESS9,"Father's highest level of education, Denmark"
+488,ESS9,Worn or displayed campaign badge/sticker last 12 months
+489,ESS9,Partner's employment relation
+490,ESS9,"Party voted for in last national election 2, Lithuania (second vote, party)"
+491,ESS9,"Party voted for in last national election, Switzerland"
+492,ESS9,"Partner's highest level of education, Hungary"
+493,ESS9,Country's cultural life undermined or enriched by immigrants
+494,ESS9,Discrimination of respondent's group: ethnic group
+495,ESS9,"Father's highest level of education, Slovenia"
+496,ESS9,Allow many/few immigrants from poorer countries outside Europe
+497,ESS9,"Partner's highest level of education, Lithuania"
+498,ESS9,Discrimination of respondent's group: gender
+499,ESS9,Influence decision to recruit in country: person's gender
+500,ESS9,Hampered in daily activities by illness/disability/infirmity/mental problem
+501,ESS9,Trust in politicians
+502,ESS9,Seventh person in household: relationship to respondent
+503,ESS9,"Mother's highest level of education, Serbia"
+504,ESS9,Highest level of education
+505,ESS9,"Father's age when completed full time education, United Kingdom"
+506,ESS9,Trust in political parties
+507,ESS9,Which letter describes your net [pay/pensions/social benefits]
+508,ESS9,"Religion or denomination belonging to in the past, Iceland"
+509,ESS9,"Father's highest level of education, ES - ISCED"
+510,ESS9,How religious are you
+511,ESS9,"Party voted for in last national election, Latvia"
+512,ESS9,"Top 10% full-time employees in country, earning more than [amount], how fair"
+513,ESS9,Approve if person chooses never to have children. SPLIT BALLOT
+514,ESS9,Sixth person in household: relationship to respondent
+515,ESS9,Trust in country's parliament
+516,ESS9,Religion or denomination belonging to in the past
+517,ESS9,Posted or shared anything about politics online last 12 months
+518,ESS9,"Mother's highest level of education, Montenegro"
+519,ESS9,"Which party feel closer to, Spain"
+520,ESS9,"Religion or denomination belonging to at present, Poland"
+521,ESS9,Number of grandchildren
+522,ESS9,"Legal marital status, post coded"
+523,ESS9,"Partner's highest level of education, ES - ISCED"
+524,ESS9,Influence decision to recruit in country: person's knowledge and skills
+525,ESS9,Feeling of safety of walking alone in local area after dark
+526,ESS9,"Administration of split ballot, ask about female or male"
+527,ESS9,Thirteenth person in household: relationship to respondent
+528,ESS9,Boycotted certain products last 12 months
+529,ESS9,"Religion or denomination belonging to at present, Belgium"
+530,ESS9,Worked in another organisation or association last 12 months
+531,ESS9,"Which party feel closer to, Finland"
+532,ESS9,Allow many/few immigrants of same race/ethnic group as majority
+533,ESS9,"Become mother/ father, ideal age. SPLIT BALLOT"
+534,ESS9,"Father's highest level of education, Serbia"
+535,ESS9,"Religion or denomination belonging to in the past, Netherlands"
+536,ESS9,"Father's highest level of education, France"
+537,ESS9,Important to think new ideas and being creative
+538,ESS9,Feel closer to a particular party than all other parties
+539,ESS9,Approve if person lives with partner not married to. SPLIT BALLOT
+540,ESS9,"Which party feel closer to, Italy"
+541,ESS9,Allow many/few immigrants of different race/ethnic group from majority
+542,ESS9,"Be working 20 hours or more per week, age too old. SPLIT BALLOT"
+543,ESS9,"Religion or denomination belonging to at present, Austria"
+544,ESS9,Year of birth of eleventh person in household
+545,ESS9,Discrimination of respondent's group: language
+546,ESS9,"Mother's highest level of education, Ireland"
+547,ESS9,Doing last 7 days: paid work
+548,ESS9,"Mother's highest level of education, Belgium"
+549,ESS9,"Mother's highest level of education, United Kingdom: Up to Ph.D or equivalent"
+550,ESS9,"Consider having more children, age too old. SPLIT BALLOT"
+551,ESS9,"Country of birth, mother"
+552,ESS9,Number of children ever given birth to/ fathered
+553,ESS9,Fair level of [weekly/monthly/annual] gross pay for you
+554,ESS9,Gender of fourth person in household
+555,ESS9,"Which party feel closer to, Serbia"
+556,ESS9,How emotionally attached to [country]
+557,ESS9,"Party voted for in last national election, Czechia"
+558,ESS9,"Start living with partner not married to, ideal age. SPLIT BALLOT"
+559,ESS9,Citizenship
+560,ESS9,"Party voted for in last national election, Slovenia"
+561,ESS9,"Highest level of education, United Kingdom: Up to Ph.D or equivalent"
+562,ESS9,Number of people responsible for in job
+563,ESS9,"Party voted for in last national election, Hungary"
+564,ESS9,"Partner's highest level of education, Germany: hoechster allgemeinbildender Schulabschluss"
+565,ESS9,Feeling about household's income nowadays
+566,ESS9,"Bottom 10% full-time employees in country, earning less than [amount], how fair"
+567,ESS9,Have any great grandchildren
+568,ESS9,"Party voted for in last national election, Austria"
+569,ESS9,"Religion or denomination belonging to in the past, Hungary"
+570,ESS9,Age reach middle age. SPLIT BALLOT
+571,ESS9,"Party voted for in last national election, Cyprus"
+572,ESS9,"Religion or denomination belonging to at present, Norway"
+573,ESS9,Year of birth of eighth person in household
+574,ESS9,"Partner doing last 7 days: unemployed, not actively looking for job"
+575,ESS9,"Which party feel closer to, Ireland"
+576,ESS9,Partner doing last 7 days: refusal
+577,ESS9,"Partner's highest level of education, Portugal"
+578,ESS9,"Mother's highest level of education, Switzerland"
+579,ESS9,"Compared other people in country, fair chance get job I seek"
+580,ESS9,Gender
+581,ESS9,"Religion or denomination belonging to in the past, Latvia"
+582,ESS9,Partner doing last 7 days: education
+583,ESS9,Society fair when hard-working people earn more than others
+584,ESS9,"Highest level of education, Austria"
+585,ESS9,Allowed to decide how daily work is organised
+586,ESS9,Discrimination of respondent's group: not applicable
+587,ESS9,"Partner's age when completed full time education, United Kingdom"
+588,ESS9,Ever been divorced/had civil union dissolved
+589,ESS9,"Father's highest level of education, Ireland"
+590,ESS9,Approve if person gets divorced while children aged under 12. SPLIT BALLOT
+591,ESS9,Language most often spoken at home: second mentioned
+592,ESS9,"Partner's highest level of education, Croatia"
+593,ESS9,"Mother's highest level of education, Portugal"
+594,ESS9,"Which party feel closer to, Montenegro"
+595,ESS9,"Mother's highest level of education, Latvia"
+596,ESS9,"Occupation partner, ISCO08"
+597,ESS9,Have a set 'basic' or contracted number of hours
+598,ESS9,"Highest level of education, Latvia"
+599,ESS9,"Which party feel closer to, Sweden"
+600,ESS9,Discrimination of respondent's group: don't know
+601,ESS9,Gender of eleventh person in household
+602,ESS9,Mother's highest level of education
+603,ESS9,"Which party feel closer to, Switzerland"
+604,ESS9,"Most people try to take advantage of you, or try to be fair"
+605,ESS9,"Which party feel closer to, Poland"
+606,ESS9,"Highest level of education, Portugal"
+607,ESS9,Important that government is strong and ensures safety
+608,ESS9,"Occupation, ISCO08"
+609,ESS9,"Party voted for in last national election 1, Germany"
+610,ESS9,Year of birth of twelfth person in household
+611,ESS9,"Partner's highest level of education, Serbia"
+612,ESS9,"Highest level of education, Sweden"
+613,ESS9,"Father's highest level of education, Finland"
+614,ESS9,Discrimination of respondent's group: religion
+615,ESS9,Age reach old age. SPLIT BALLOT
+616,ESS9,Year of birth of third person in household
+617,ESS9,"Which party feel closer to, Lithuania"
+618,ESS9,"Highest level of education, Slovakia"
+619,ESS9,Born in country
+620,ESS9,Society fair when people from families with high social status enjoy privileges
+621,ESS9,"Still be living with parents, age too old. SPLIT BALLOT"
+622,ESS9,Year first grandchild was born
+623,ESS9,Father born in country
+624,ESS9,Gay and lesbian couples right to adopt children
+625,ESS9,Discrimination of respondent's group: no answer
+626,ESS9,Year first left parents for living separately for 2 months or more
+627,ESS9,"Father's highest level of education, Latvia"
+628,ESS9,Confident in own ability to participate in politics
+629,ESS9,Ever unemployed and seeking work for a period more than three months
+630,ESS9,Important that people are treated equally and have equal opportunities
+631,ESS9,European Union: European unification go further or gone too far
+632,ESS9,How satisfied with present state of economy in country
+633,ESS9,"Highest level of education, ES - ISCED"
+634,ESS9,Member of trade union or similar organisation
+635,ESS9,Influence decision to recruit in country: person's on-the-job experience
+636,ESS9,Year last in paid job
+637,ESS9,How satisfied with the way democracy works in country
+638,ESS9,Trust in the legal system
+639,ESS9,Everyone in country fair chance achieve level of education they seek
+640,ESS9,"Highest level of education, Switzerland"
+641,ESS9,Important to be successful and that people recognise achievements
+642,ESS9,"Which party feel closer to, Netherlands"
+643,ESS9,Member of a group discriminated against in this country
+644,ESS9,"Mother's highest level of education, Spain"
+645,ESS9,How satisfied with life as a whole
+646,ESS9,"Father's highest level of education, Iceland"
+647,ESS9,Regional unit
+648,ESS9,Taken part in lawful public demonstration last 12 months
+649,ESS9,"Religion or denomination belonging to at present, Switzerland"
+650,ESS9,"Father's highest level of education, Portugal"
+651,ESS9,"Religion or denomination belonging to in the past, Slovakia"
+652,ESS9,Year of birth of tenth person in household
+653,ESS9,Doing last 7 days: community or military service
+654,ESS9,"Father's highest level of education, Belgium"
+655,ESS9,"Father's highest level of education, Czechia"
+656,ESS9,Employment contract unlimited or limited duration
+657,ESS9,"Religion or denomination belonging to at present, Finland"
+658,ESS9,"Mother's highest level of education, Slovakia"
+659,ESS9,"Highest level of education, Spain"
+660,ESS9,"Highest level of education, Denmark"
+661,ESS9,Immigrants make country worse or better place to live
+662,ESS9,"Religion or denomination belonging to in the past, Switzerland"
+663,ESS9,"Religion or denomination belonging to at present, Germany"
+664,ESS9,"Which party feel closer to, Iceland"
+665,ESS9,"Partner's highest level of education, Germany: hoechster Studienabschluss"
+666,ESS9,Year of birth of fourth person in household
+667,ESS9,"Religion or denomination belonging to in the past, Austria"
+668,ESS9,"Mother's highest level of education, Sweden"
+669,ESS9,"Mother's highest level of education, ES - ISCED"
+670,ESS9,"Which party feel closer to, Norway"
+671,ESS9,Eleventh person in household: relationship to respondent
+672,ESS9,"Which party feel closer to, United Kingdom"
+673,ESS9,Government in country takes into account the interests of all citizens
+674,ESS9,"Party voted for in last national election, Belgium"
+675,ESS9,"Partner's highest level of education, Iceland"
+676,ESS9,Placement on left right scale
+677,ESS9,"Mother's age when completed full time education, United Kingdom"
+678,ESS9,"Which party feel closer to, Austria"
+679,ESS9,"Important to be rich, have money and expensive things"
+680,ESS9,"Father's highest level of education, United Kingdom: Up to Ph.D or equivalent"
+681,ESS9,"Party voted for in last national election, Norway"
+682,ESS9,"Highest level of education, Montenegro"
+683,ESS9,"Which party feel closer to, Croatia"
+684,ESS9,"Retire permanently, age too young. SPLIT BALLOT"
+685,ESS9,"Doing last 7 days: unemployed, actively looking for job"
+686,ESS9,"Partner's highest level of education, Netherlands"
+687,ESS9,Mother born in country
+688,ESS9,Eighth person in household: relationship to respondent
+689,ESS9,Fifth person in household: relationship to respondent
+690,ESS9,"Religion or denomination belonging to at present, Sweden"
+691,ESS9,"Filter variable: ask about pay, pensions, or social benefits"
+692,ESS9,"Partner's highest level of education, Germany: hoechster Ausbildungsabschluss"
+693,ESS9,"Industry, NACE rev.2"
+694,ESS9,Ever had a paid job
+695,ESS9,Government should reduce differences in income levels
+696,ESS9,"Partner's highest level of education, Slovakia"
+697,ESS9,"Highest level of education, Estonia"
+698,ESS9,Discrimination of respondent's group: other grounds
+699,ESS9,"Would you say your gross pay is unfairly low, fair, or unfairly high"
+700,ESS9,How often attend religious services apart from special occasions
+701,ESS9,"Age when completed full time education, United Kingdom"
+702,ESS9,Establishment size
+703,ESS9,Immigration bad or good for country's economy
+704,ESS9,"Partner's highest level of education, Norway"
+705,ESS9,"Mother's highest level of education, United Kingdom: Up to 2 or more A-levels or equivalent"
+706,ESS9,Your usual [weekly/monthly/annual] net [pay/pensions/social benefits]
+707,ESS9,"Party voted for in last national election, Bulgaria"
+708,ESS9,"Get married, ideal age. SPLIT BALLOT"
+709,ESS9,How emotionally attached to Europe
+710,ESS9,Gays and lesbians free to live life as they wish
+711,ESS9,Important to seek fun and things that give pleasure
+712,ESS9,Plan for future or take each day as it comes
+713,ESS9,"Party voted for in last national election, Finland"
+714,ESS9,"Partner's highest level of education, Denmark"
+715,ESS9,"Which party feel closer to, Bulgaria"
+716,ESS9,"Religion or denomination belonging to at present, Latvia"
+717,ESS9,"Paid work in another country, period more than 6 months last 10 years"
+718,ESS9,"Father's highest level of education, Italy"
+719,ESS9,"Hours normally worked a week in main job overtime included, partner"
+720,ESS9,Control paid work last 7 days
+721,ESS9,"Which party feel closer to, Germany"
+722,ESS9,Everyone in country fair chance get job they seek
+723,ESS9,Year (first) child was born
+724,ESS9,Gender of third person in household
+725,ESS9,"Partner's highest level of education, Slovenia"
+726,ESS9,"Partner's highest level of education, Latvia"
+727,ESS9,"Highest level of education, Germany: hoechster Studienabschluss"
+728,ESS9,Doing last 7 days: retired
+729,ESS9,"Partner's highest level of education, Finland"
+730,ESS9,"Highest level of education, Ireland"
+731,ESS9,"Partner's highest level of education, United Kingdom: Up to 2 or more A-levels or equivalent"
+732,ESS9,"Party voted for in last national election, Slovakia"
+733,ESS9,"Highest level of education, Bulgaria"
+734,ESS9,Doing last 7 days: permanently sick or disabled
+735,ESS9,"First ancestry, European Standard Classification of Cultural and Ethnic Groups"
+736,ESS9,"Partner's highest level of education, Switzerland"
+737,ESS9,Administration of how democracy works questions
+738,ESS9,"Father's highest level of education, Bulgaria"
+739,ESS9,"Religion or denomination belonging to in the past, Germany"
+740,ESS9,Discrimination of respondent's group: colour or race
+741,ESS9,Father's highest level of education
+742,ESS9,How close to party
+743,ESS9,"Mother's highest level of education, Germany: hoechster allgemeinbildender Schulabschluss"
+744,ESS9,"Partner's highest level of education, Czechia"
+745,ESS9,Main activity last 7 days
+746,ESS9,"Mother's highest level of education, Netherlands"
+747,ESS9,Any period of unemployment and work seeking lasted 12 months or more
+748,ESS9,"Religion or denomination belonging to in the past, Lithuania"
+749,ESS9,Political system in country ensures everyone fair chance to participate in politics
+750,ESS9,"Which party feel closer to, Belgium"
+751,ESS9,Year of birth of fourteenth person in household
+752,ESS9,Partner doing last 7 days: permanently sick or disabled
+753,ESS9,"Highest level of education, Germany: hoechster allgemeinbildender Schulabschluss"
+754,ESS9,Political system allows people to have influence on politics
+755,ESS9,Important to follow traditions and customs
+756,ESS9,"Mother's highest level of education, Bulgaria"
+757,ESS9,Doing last 7 days: no answer
+758,ESS9,"Society fair when takes care of poor and in need, regardless of what give back"
+759,ESS9,"Party voted for in last national election, Denmark"
+760,ESS9,"Party voted for in last national election, Italy"
+761,ESS9,Discrimination of respondent's group: nationality
+762,ESS9,"Father's highest level of education, Montenegro"
+763,ESS9,"Highest level of education, Iceland"
+764,ESS9,"Party voted for in last national election, Ireland (derived from 1st preference vote)"
+765,ESS9,How happy are you
+766,ESS9,Gender of ninth person in household
+767,ESS9,"Which party feel closer to, Denmark"
+768,ESS9,Important to help people and care for others well-being
+769,ESS9,"Partner's highest level of education, Estonia"
+770,ESS9,"Party voted for in last national election, Iceland"
+771,ESS9,"Ever lived with a partner, without being married"
+772,ESS9,Years of full-time education completed
+773,ESS9,Respondent's main source of income
+774,ESS9,Partner doing last 7 days: not applicable
+775,ESS9,Age become adults. SPLIT BALLOT
+776,ESS9,Fourth person in household: relationship to respondent
+777,ESS9,Fifteenth person in household: relationship to respondent
+778,ESS9,"Which party feel closer to, Czechia"
+779,ESS9,"Father's highest level of education, Germany: hoechster Ausbildungsabschluss"
+780,ESS9,"Party voted for in last national election, Sweden"
+781,ESS9,"Which party feel closer to, Latvia"
+782,ESS9,Decisions in country politics are transparent
+783,ESS9,Important to be loyal to friends and devote to people close
+784,ESS9,"Father's highest level of education, Spain"
+785,ESS9,"Religion or denomination belonging to at present, Hungary"
+786,ESS9,"Partner's highest level of education, Sweden"
+787,ESS9,State of health services in country nowadays
+788,ESS9,Signed petition last 12 months
+789,ESS9,"Religion or denomination belonging to at present, Slovakia"
+790,ESS9,"Father's highest level of education, Germany: hoechster Studienabschluss"
+791,ESS9,"Father's highest level of education, Austria"
+792,ESS9,Tenth person in household: relationship to respondent
+793,ESS9,How many people with whom you can discuss intimate and personal matters
+794,ESS9,"Age of respondent, calculated"
+795,ESS9,Year first started in paid employment or apprenticeship
+796,ESS9,"Religion or denomination belonging to at present, Cyprus"
+797,ESS9,"Relationship with husband/wife/partner currently living with, United Kingdom"
+798,ESS9,Gender of eighth person in household
+799,ESS9,Society fair when income and wealth is equally distributed
+800,ESS9,"Important to be humble and modest, not draw attention"
+801,ESS9,Total contracted hours per week in main job overtime excluded
+802,ESS9,How often pray apart from at religious services
+803,ESS9,"Your [pay/pensions/social benefits], which frequency do you know best"
+804,ESS9,Year of birth of ninth person in household
+805,ESS9,"Father's highest level of education, Norway"
+806,ESS9,"Get married, age too young. SPLIT BALLOT"
+807,ESS9,Employment relation
+808,ESS9,Partner doing last 7 days: don't know
+809,ESS9,"Mother's highest level of education, Germany: hoechster Studienabschluss"
+810,ESS9,Important to try new and different things in life
+811,ESS9,"Which party feel closer to, Hungary"
+812,ESS9,"Religion or denomination belonging to at present, Ireland"
+813,ESS9,Doing last 7 days: refusal
+814,ESS9,"Religion or denomination belonging to in the past, Cyprus"
+815,ESS10,Partner doing last 7 days: paid work
+816,ESS10,Father's occupation when respondent 14
+817,ESS10,In country the will of the people cannot be stopped
+818,ESS10,Respondent or household member victim of burglary/assault last 5 years
+819,ESS10,Trust in the European Parliament
+820,ESS10,Religion or denomination belonging to at present
+821,ESS10,"Father's highest level of education, Estonia"
+822,ESS10,Things happened since start of COVID-19: income from job was reduced
+823,ESS10,Important to behave properly
+824,ESS10,End of section I
+825,ESS10,"Line manager and respondent are at the same workplace, how often"
+826,ESS10,"How often socially meet with friends, relatives or colleagues"
+827,ESS10,Sampling stratum
+828,ESS10,Country of birth
+829,ESS10,Important to live in secure and safe surroundings
+830,ESS10,Would vote for [country] to become member of European Union or remain outside
+831,ESS10,Year of birth
+832,ESS10,Father's employment status when respondent 14
+833,ESS10,Doing last 7 days: other
+834,ESS10,"Party voted for in last national election 3, Lithuania (third vote, party)"
+835,ESS10,"Father's highest level of education, Lithuania"
+836,ESS10,COVID-19 vaccine approved by national regulatory authority and available to the public in country
+837,ESS10,Trust in the United Nations
+838,ESS10,The courts treat everyone the same
+839,ESS10,The media are free to criticise the government
+840,ESS10,State of education in country nowadays
+841,ESS10,Citizen of country
+842,ESS10,Gender of seventh person in household
+843,ESS10,Relationship with husband/wife/partner currently living with
+844,ESS10,Location able to access the internet: Don't know
+845,ESS10,Location able to access the internet: Workplace
+846,ESS10,Mother's employment status when respondent 14
+847,ESS10,"Highest level of education, Finland"
+848,ESS10,In country the government protects all citizens against poverty
+849,ESS10,Citizens have the final say on political issues by voting directly in referendums
+850,ESS10,Ever belonging to particular religion or denomination
+851,ESS10,Trust in the police
+852,ESS10,National elections are free and fair
+853,ESS10,How important for country to close its borders when fighting a pandemic
+854,ESS10,Volunteered for not-for-profit or charitable organisation
+855,ESS10,"Improve knowledge/skills: course/lecture/conference, last 12 months"
+856,ESS10,End of section G
+857,ESS10,Ashamed if close family member gay or lesbian
+858,ESS10,Year of birth of seventh person in household
+859,ESS10,Partner doing last 7 days: no answer
+860,ESS10,"Party voted for in last national election, France (ballot 1)"
+861,ESS10,Whether respondent would get vaccinated against COVID-19 if vaccine is approved by the national regulatory authority in country
+862,ESS10,Take on extra responsibilities at work without being paid more
+863,ESS10,Location able to access the internet: Refusal
+864,ESS10,Respondent's experience of technical problems: video display not being clear
+865,ESS10,Mother's occupation when respondent 14
+866,ESS10,"Highest level of education, Croatia"
+867,ESS10,Discrimination of respondent's group: refusal
+868,ESS10,Contacted politician or government official last 12 months
+869,ESS10,More important for governments to prioritise public health or economic activity
+870,ESS10,"Mother's highest level of education, Croatia"
+871,ESS10,Any period of unemployment and work seeking within last 5 years
+872,ESS10,Second person in household: relationship to respondent
+873,ESS10,"Doing last 7 days: unemployed, not actively looking for job"
+874,ESS10,Important to make own decisions and be free
+875,ESS10,"Which party feel closer to, Slovenia"
+876,ESS10,Subjective general health
+877,ESS10,Important to do what is told and follow rules
+878,ESS10,Voted last national election
+879,ESS10,"Household's total net income, all sources"
+880,ESS10,"Mother's highest level of education, Lithuania"
+881,ESS10,Year of birth of thirteenth person in household
+882,ESS10,"Speak with line manager about work and see each other on a screen, how often"
+883,ESS10,"Work from home or place of choice,  how accepted compared with before COVID-19"
+884,ESS10,Start of section J
+885,ESS10,End of interview
+886,ESS10,Whether respondent will get vaccinated against COVID-19 with vaccine approved by the national regulatory authority in country
+887,ESS10,Responsible for supervising other employees
+888,ESS10,Third person in household: relationship to respondent
+889,ESS10,Important to care for nature and environment
+890,ESS10,Location able to access the internet: Some other place
+891,ESS10,Take part in social activities compared to others of same age
+892,ESS10,"Which party feel closer to, Estonia"
+893,ESS10,"Which party feel closer to, France"
+894,ESS10,"Mother's highest level of education, Slovenia"
+895,ESS10,"Partner's highest level of education, France"
+896,ESS10,In country different political parties offer clear alternatives to one another
+897,ESS10,"Mother's highest level of education, Finland"
+898,ESS10,"Main activity, last 7 days. All respondents. Post coded"
+899,ESS10,More important for governments to monitor and track the public or to maintain public privacy
+900,ESS10,Obedience and respect for authority most important virtues children should learn
+901,ESS10,Things happened since start of COVID-19: no answer
+902,ESS10,"Mother's highest level of education, Hungary"
+903,ESS10,Number of employees respondent has/had
+904,ESS10,Partner doing last 7 days: community or military service
+905,ESS10,"Region, [country]"
+906,ESS10,"How important things are for democracy, order E"
+907,ESS10,More important to follow government rules or to make own decisions when fighting a pandemic
+908,ESS10,Administration of how important things are for democracy
+909,ESS10,Ninth person in household: relationship to respondent
+910,ESS10,How satisfied with government's response to COVID-19: people who have experienced job/income losses
+911,ESS10,"Party voted for in last national election 1, Lithuania (first vote, party)"
+912,ESS10,Doing last 7 days: don't know
+913,ESS10,Location able to access the internet: On the move
+914,ESS10,How satisfied with the way health services coped with COVID-19 and its consequences in country
+915,ESS10,"Communicate with parent via text, email or messaging apps, how often"
+916,ESS10,"How important things are for democracy, order B"
+917,ESS10,"Highest level of education, France"
+918,ESS10,"Highest level of education, Slovenia"
+919,ESS10,"Parents still alive, mother or father"
+920,ESS10,"Feel like part of your team, how much"
+921,ESS10,Gender of tenth person in household
+922,ESS10,Important to understand different people
+923,ESS10,Partner's main activity last 7 days
+924,ESS10,Most people can be trusted or you can't be too careful
+925,ESS10,How satisfied with the national government
+926,ESS10,"Highest level of education, Hungary"
+927,ESS10,Year of birth of fifth person in household
+928,ESS10,Language most often spoken at home: first mentioned
+929,ESS10,In country the courts treat everyone the same
+930,ESS10,Age of child aged 12 or over
+931,ESS10,Allowed to influence policy decisions about activities of organisation
+932,ESS10,How interested in politics
+933,ESS10,"Groups of scientists manipulate, fabricate, or suppress evidence in order to deceive the public"
+934,ESS10,How satisfied with government's handling of COVID-19 in country
+935,ESS10,Year of birth of sixth person in household
+936,ESS10,Political system allows people to have a say in what government does
+937,ESS10,"Climate change caused by natural processes, human activity, or both"
+938,ESS10,Able to take active role in political group
+939,ESS10,"Father's highest level of education, Slovakia"
+940,ESS10,"Speak with parent and see each other on a screen, how often"
+941,ESS10,Legal marital status
+942,ESS10,More important for governments to prioritise public health or economic activity when fighting a pandemic
+943,ESS10,"Speak with parent using a phone, how often"
+944,ESS10,Gender of second person in household
+945,ESS10,COVID-19 is result of deliberate and concealed efforts of some government or organisation
+946,ESS10,Edition
+947,ESS10,"Online/mobile communication with parent, how often compared with before COVID-19"
+948,ESS10,In country governing parties are punished in elections when they have done a bad job
+949,ESS10,To what extent trust the government to deal with the impact of COVID-19 in country
+950,ESS10,Discrimination of respondent's group: sexuality
+951,ESS10,"Internet use, how much time on typical day, in minutes"
+952,ESS10,Important to get respect from others
+953,ESS10,Important to have a good time
+954,ESS10,Number of people living regularly as member of household
+955,ESS10,Governing parties are punished in elections when they have done a bad job
+956,ESS10,"Online/mobile communication with child aged 12 or over, how often compared with before COVID-19"
+957,ESS10,In country the views of ordinary people prevail over the views of the political elite
+958,ESS10,In country the government takes measures to reduce differences in income levels
+959,ESS10,Gender of fifth person in household
+960,ESS10,Gender of thirteenth person in household
+961,ESS10,Taken part in public demonstration last 12 months
+962,ESS10,"Internet use, how often"
+963,ESS10,Important to show abilities and be admired
+964,ESS10,In country the media are free to criticise the government
+965,ESS10,"Father's highest level of education, Croatia"
+966,ESS10,Belonging to particular religion or denomination
+967,ESS10,End of section H
+968,ESS10,"Religion or denomination belonging to in the past, Finland"
+969,ESS10,Doing last 7 days: education
+970,ESS10,Things happened since start of COVID-19: none of these
+971,ESS10,"Speak with line manager about work in person, how often"
+972,ESS10,Respondent's experience of technical problems: other issue
+973,ESS10,Gender of sixth person in household
+974,ESS10,"Doing last 7 days: housework, looking after children, others"
+975,ESS10,"Domicile, respondent's description"
+976,ESS10,"Second ancestry, European Standard Classification of Cultural and Ethnic Groups"
+977,ESS10,"Religion or denomination belonging to at present, Lithuania"
+978,ESS10,Main source of household income
+979,ESS10,"Father's highest level of education, Hungary"
+980,ESS10,Would vote for [country] to remain member of European Union or leave
+981,ESS10,Anyone living with respondent had COVID-19
+982,ESS10,"Highest level of education, Czechia"
+983,ESS10,Ever had children living in household
+984,ESS10,"Mother's highest level of education, Czechia"
+985,ESS10,End of section D
+986,ESS10,Gender of child aged 12 or over
+987,ESS10,Total hours normally worked per week in main job overtime included
+988,ESS10,"Too tired after work to enjoy things like doing at home, how often"
+989,ESS10,"PDF, how familiar"
+990,ESS10,End of section K
+991,ESS10,"Partner doing last 7 days: unemployed, actively looking for job"
+992,ESS10,"Partner's highest level of education, Bulgaria"
+993,ESS10,Gender of twelfth person in household
+994,ESS10,Partner doing last 7 days: retired
+995,ESS10,Discrimination of respondent's group: disability
+996,ESS10,What type of organisation work/worked for
+997,ESS10,"Party voted for in last national election, Estonia"
+998,ESS10,How satisfied with government's response to COVID-19: elderly people in care homes
+999,ESS10,"Speak with parent in person, how often"
+1000,ESS10,Year of birth of second person in household
+1001,ESS10,Twelfth person in household: relationship to respondent
+1002,ESS10,"Country of birth, father"
+1003,ESS10,Things happened since start of COVID-19: working hours were reduced
+1004,ESS10,"Mother's highest level of education, France"
+1005,ESS10,"Which party feel closer to, Slovakia"
+1006,ESS10,Partner's highest level of education
+1007,ESS10,Partner doing last 7 days: other
+1008,ESS10,"Highest level of education, Lithuania"
+1009,ESS10,"Partner, control paid work last 7 days"
+1010,ESS10,"Partner doing last 7 days: housework, looking after children, others"
+1011,ESS10,Discrimination of respondent's group: age
+1012,ESS10,Most of the time people helpful or mostly looking out for themselves
+1013,ESS10,"Mother's highest level of education, Estonia"
+1014,ESS10,What year you first came to live in country
+1015,ESS10,Child aged 12 or over lives in same household
+1016,ESS10,Important to seek adventures and have an exciting life
+1017,ESS10,"Party voted for in last national election, Croatia"
+1018,ESS10,"News about politics and current affairs, watching, reading or listening, in minutes"
+1019,ESS10,Design weight
+1020,ESS10,"Communicate with colleagues about work via text, email or messaging apps, how often"
+1021,ESS10,Parent lives in same household
+1022,ESS10,Worn or displayed campaign badge/sticker last 12 months
+1023,ESS10,Partner's employment relation
+1024,ESS10,"Party voted for in last national election 2, Lithuania (second vote, party)"
+1025,ESS10,"Partner's highest level of education, Hungary"
+1026,ESS10,Country's cultural life undermined or enriched by immigrants
+1027,ESS10,Discrimination of respondent's group: ethnic group
+1028,ESS10,"Father's highest level of education, Slovenia"
+1029,ESS10,Allow many/few immigrants from poorer countries outside Europe
+1030,ESS10,The rights of minority groups are protected
+1031,ESS10,"Communicate with line manager about work via text, email or messaging apps, how often"
+1032,ESS10,"Partner's highest level of education, Lithuania"
+1033,ESS10,Things happened since start of COVID-19: not in work since start of COVID-19
+1034,ESS10,Online/mobile communication makes it easy to coordinate and manage activities
+1035,ESS10,Administration of COVID-19 questions
+1036,ESS10,Discrimination of respondent's group: gender
+1037,ESS10,"Speak with people you work with in person, how often compared with before COVID-19"
+1038,ESS10,Respondent's experience of technical problems: no answer
+1039,ESS10,Hampered in daily activities by illness/disability/infirmity/mental problem
+1040,ESS10,Trust in politicians
+1041,ESS10,Location able to access the internet: No answer
+1042,ESS10,Seventh person in household: relationship to respondent
+1043,ESS10,Highest level of education
+1044,ESS10,"Advanced search, how familiar"
+1045,ESS10,Trust in political parties
+1046,ESS10,How close to child aged 12 or over
+1047,ESS10,"Father's highest level of education, ES - ISCED"
+1048,ESS10,How religious are you
+1049,ESS10,End of section V
+1050,ESS10,Sixth person in household: relationship to respondent
+1051,ESS10,In country national elections are free and fair
+1052,ESS10,Trust in country's parliament
+1053,ESS10,Trust in scientists
+1054,ESS10,Religion or denomination belonging to in the past
+1055,ESS10,Posted or shared anything about politics online last 12 months
+1056,ESS10,"Legal marital status, post coded"
+1057,ESS10,"Partner's highest level of education, ES - ISCED"
+1058,ESS10,How close to parent
+1059,ESS10,"Travel time to parent, in minutes"
+1060,ESS10,Feeling of safety of walking alone in local area after dark
+1061,ESS10,Things happened since start of COVID-19: don't know
+1062,ESS10,"Speak with line about work manager using a phone, how often"
+1063,ESS10,Thirteenth person in household: relationship to respondent
+1064,ESS10,Boycotted certain products last 12 months
+1065,ESS10,Allow many/few immigrants of same race/ethnic group as majority
+1066,ESS10,"Which party feel closer to, Finland"
+1067,ESS10,Things happened since start of COVID-19: was forced to take unpaid leave/holiday
+1068,ESS10,"Colleagues give work-related help, how likely"
+1069,ESS10,Sampling probability
+1070,ESS10,"Father's highest level of education, France"
+1071,ESS10,Important to think new ideas and being creative
+1072,ESS10,Small secret group of people responsible for making all major decisions in world politics
+1073,ESS10,Feel closer to a particular party than all other parties
+1074,ESS10,Allow many/few immigrants of different race/ethnic group from majority
+1075,ESS10,ESS round
+1076,ESS10,Year of birth of eleventh person in household
+1077,ESS10,Discrimination of respondent's group: language
+1078,ESS10,The government protects all citizens against poverty
+1079,ESS10,Doing last 7 days: paid work
+1080,ESS10,"Country of birth, mother"
+1081,ESS10,Respondent's experience of technical problems: not applicable
+1082,ESS10,Gender of fourth person in household
+1083,ESS10,More important for governments to monitor and track the public or to maintain public privacy when fighting a pandemic
+1084,ESS10,End of section J
+1085,ESS10,"How likely, large numbers of people limit energy use"
+1086,ESS10,How important for you to live in democratically governed country
+1087,ESS10,How emotionally attached to [country]
+1088,ESS10,"Party voted for in last national election, Czechia"
+1089,ESS10,Current job: can decide time start/finish work
+1090,ESS10,"Party voted for in last national election, Slovenia"
+1091,ESS10,Number of people responsible for in job
+1092,ESS10,"Party voted for in last national election, Hungary"
+1093,ESS10,Feeling about household's income nowadays
+1094,ESS10,Start of section A
+1095,ESS10,"Employees expected to be responsive outside working hours, how often"
+1096,ESS10,"Religion or denomination belonging to in the past, Hungary"
+1097,ESS10,"Speak with colleagues about work and see each other on a screen, how often"
+1098,ESS10,The government takes measures to reduce differences in income levels
+1099,ESS10,Year of birth of eighth person in household
+1100,ESS10,"Partner doing last 7 days: unemployed, not actively looking for job"
+1101,ESS10,Partner doing last 7 days: refusal
+1102,ESS10,Gender
+1103,ESS10,"Travel time to child aged 12 or over, in minutes"
+1104,ESS10,Partner doing last 7 days: education
+1105,ESS10,Work place change occurred as a result of COVID-19
+1106,ESS10,Allowed to decide how daily work is organised
+1107,ESS10,Production date
+1108,ESS10,Discrimination of respondent's group: not applicable
+1109,ESS10,Primary sampling unit
+1110,ESS10,Ever been divorced/had civil union dissolved
+1111,ESS10,Language most often spoken at home: second mentioned
+1112,ESS10,Number of children aged 12 or over
+1113,ESS10,"How likely, governments in enough countries take action to reduce climate change"
+1114,ESS10,"Partner's highest level of education, Croatia"
+1115,ESS10,Things happened since start of COVID-19: refusal
+1116,ESS10,Start of interview
+1117,ESS10,Key decisions are made by national governments rather than the European Union
+1118,ESS10,Type of device used for video interview
+1119,ESS10,Online/mobile communication makes people feel closer to one another
+1120,ESS10,"Partner/family fed up with pressure of your job, how often"
+1121,ESS10,"Communicate with child aged 12 or over via text, email or messaging apps, how often"
+1122,ESS10,Respondent's experience of technical problems: internet connection affecting video call
+1123,ESS10,"Occupation partner, ISCO08"
+1124,ESS10,Respondent's experience of technical problems: don't know
+1125,ESS10,Respondent's experience of technical problems: no technical issues
+1126,ESS10,Discrimination of respondent's group: don't know
+1127,ESS10,Respondent's overall experience of taking part in survey
+1128,ESS10,"Line manager gives work-related help, how likely"
+1129,ESS10,Donated to or participated in political party or pressure group last 12 months
+1130,ESS10,"How important things are for democracy, order C"
+1131,ESS10,Gender of eleventh person in household
+1132,ESS10,Mother's highest level of education
+1133,ESS10,Online/mobile communication exposes people to misinformation
+1134,ESS10,"Most people try to take advantage of you, or try to be fair"
+1135,ESS10,Important for democracy: government changes policies in response to what most people think
+1136,ESS10,Important that government is strong and ensures safety
+1137,ESS10,"Preference settings, how familiar"
+1138,ESS10,"Occupation, ISCO08"
+1139,ESS10,End of section A
+1140,ESS10,Year of birth of twelfth person in household
+1141,ESS10,"Father's highest level of education, Finland"
+1142,ESS10,Discrimination of respondent's group: religion
+1143,ESS10,Year of birth of third person in household
+1144,ESS10,"Which party feel closer to, Lithuania"
+1145,ESS10,"Highest level of education, Slovakia"
+1146,ESS10,Born in country
+1147,ESS10,Online/mobile communication makes it easy to work from home or place of choice
+1148,ESS10,Father born in country
+1149,ESS10,Gay and lesbian couples right to adopt children
+1150,ESS10,Discrimination of respondent's group: no answer
+1151,ESS10,Confident in own ability to participate in politics
+1152,ESS10,Parents still alive
+1153,ESS10,Different political parties offer clear alternatives to one another
+1154,ESS10,Ever unemployed and seeking work for a period more than three months
+1155,ESS10,Sampling domain
+1156,ESS10,Important that people are treated equally and have equal opportunities
+1157,ESS10,European Union: European unification go further or gone too far
+1158,ESS10,How satisfied with present state of economy in country
+1159,ESS10,"Highest level of education, ES - ISCED"
+1160,ESS10,"Work from home or place of choice, how often compared with before COVID-19"
+1161,ESS10,Member of trade union or similar organisation
+1162,ESS10,Year last in paid job
+1163,ESS10,Age of parent
+1164,ESS10,How satisfied with the way democracy works in country
+1165,ESS10,Trust in the legal system
+1166,ESS10,Important to be successful and that people recognise achievements
+1167,ESS10,Member of a group discriminated against in this country
+1168,ESS10,How satisfied with life as a whole
+1169,ESS10,"Speak with child aged 12 or over in person, how often"
+1170,ESS10,In country citizens have the final say on political issues by voting directly in referendums
+1171,ESS10,Regional unit
+1172,ESS10,"Religion or denomination belonging to in the past, Slovakia"
+1173,ESS10,Year of birth of tenth person in household
+1174,ESS10,Doing last 7 days: community or military service
+1175,ESS10,"Father's highest level of education, Czechia"
+1176,ESS10,Employment contract unlimited or limited duration
+1177,ESS10,"Religion or denomination belonging to at present, Finland"
+1178,ESS10,"Speak with parent in person, how often compared with before COVID-19"
+1179,ESS10,"Mother's highest level of education, Slovakia"
+1180,ESS10,Immigrants make country worse or better place to live
+1181,ESS10,Country
+1182,ESS10,Year of birth of fourth person in household
+1183,ESS10,"Speak with child aged 12 or over and see each other on a screen, how often"
+1184,ESS10,"Mother's highest level of education, ES - ISCED"
+1185,ESS10,Eleventh person in household: relationship to respondent
+1186,ESS10,Acceptable for country to have a strong leader above the law
+1187,ESS10,End of section B
+1188,ESS10,Placement on left right scale
+1189,ESS10,Respondent's experience of technical problems: audio not being clear
+1190,ESS10,"Important to be rich, have money and expensive things"
+1191,ESS10,End of section F
+1192,ESS10,In country key decisions are made by national governments rather than the European Union
+1193,ESS10,"Which party feel closer to, Croatia"
+1194,ESS10,How satisfied are you in your main job
+1195,ESS10,"Doing last 7 days: unemployed, actively looking for job"
+1196,ESS10,Location able to access the internet: Home
+1197,ESS10,"Line manager supports employees in balancing work, how much"
+1198,ESS10,Mother born in country
+1199,ESS10,"Interview length in minutes, main questionnaire"
+1200,ESS10,Eighth person in household: relationship to respondent
+1201,ESS10,Fifth person in household: relationship to respondent
+1202,ESS10,The views of ordinary people prevail over the views of the political elite
+1203,ESS10,In country the rights of minority groups are protected
+1204,ESS10,How satisfied with government's response to COVID-19: families with school-aged children
+1205,ESS10,End of section C
+1206,ESS10,Location able to access the internet: None of the above
+1207,ESS10,How important to restrict people's movement between different parts of country when fighting a pandemic
+1208,ESS10,The will of the people cannot be stopped
+1209,ESS10,"Industry, NACE rev.2"
+1210,ESS10,Ever had a paid job
+1211,ESS10,Government should reduce differences in income levels
+1212,ESS10,Things happened since start of COVID-19: was made redundant/lost job
+1213,ESS10,"Partner's highest level of education, Slovakia"
+1214,ESS10,"Highest level of education, Estonia"
+1215,ESS10,Discrimination of respondent's group: other grounds
+1216,ESS10,Feel part of same race or ethnic group as most people in country
+1217,ESS10,How often attend religious services apart from special occasions
+1218,ESS10,Establishment size
+1219,ESS10,How the government balanced protecting the economy and people's health when responding to COVID-19 in country
+1220,ESS10,Immigration bad or good for country's economy
+1221,ESS10,"Speak with colleagues about work using a phone, how often"
+1222,ESS10,To what extent feel personal responsibility to reduce climate change
+1223,ESS10,"Party voted for in last national election, Bulgaria"
+1224,ESS10,Important to seek fun and things that give pleasure
+1225,ESS10,How emotionally attached to Europe
+1226,ESS10,Gays and lesbians free to live life as they wish
+1227,ESS10,Best for democracy: government changes policies in response to what most people think
+1228,ESS10,"Speak with colleagues in person, how often"
+1229,ESS10,"Party voted for in last national election, Finland"
+1230,ESS10,In country government sticks to policies regardless of what most people think
+1231,ESS10,"Which party feel closer to, Bulgaria"
+1232,ESS10,"Paid work in another country, period more than 6 months last 10 years"
+1233,ESS10,"Hours normally worked a week in main job overtime included, partner"
+1234,ESS10,Respondent's experience of technical problems: displaying showcards
+1235,ESS10,Respondent had COVID-19
+1236,ESS10,Control paid work last 7 days
+1237,ESS10,"Speak with child aged 12 or over using a phone, how often"
+1238,ESS10,Gender of third person in household
+1239,ESS10,"Partner's highest level of education, Slovenia"
+1240,ESS10,Doing last 7 days: retired
+1241,ESS10,"Partner's highest level of education, Finland"
+1242,ESS10,Online/mobile communication makes work and personal life interrupt each other
+1243,ESS10,Respondent's identification number
+1244,ESS10,"Party voted for in last national election, Slovakia"
+1245,ESS10,"Highest level of education, Bulgaria"
+1246,ESS10,Doing last 7 days: permanently sick or disabled
+1247,ESS10,"First ancestry, European Standard Classification of Cultural and Ethnic Groups"
+1248,ESS10,"Father's highest level of education, Bulgaria"
+1249,ESS10,Proportion of colleagues based at the same location
+1250,ESS10,Important for democracy: government sticks to policies regardless of what most people think
+1251,ESS10,Respondent's experience of technical problems: starting video call
+1252,ESS10,Discrimination of respondent's group: colour or race
+1253,ESS10,Father's highest level of education
+1254,ESS10,How close to party
+1255,ESS10,"Job prevents you from giving time to partner/family, how often"
+1256,ESS10,Country needs most loyalty towards its leaders
+1257,ESS10,"Partner's highest level of education, Czechia"
+1258,ESS10,Main activity last 7 days
+1259,ESS10,Respondent's experience of technical problems: refusal
+1260,ESS10,Any period of unemployment and work seeking lasted 12 months or more
+1261,ESS10,"Religion or denomination belonging to in the past, Lithuania"
+1262,ESS10,Partner doing last 7 days: permanently sick or disabled
+1263,ESS10,Political system allows people to have influence on politics
+1264,ESS10,"Interview conducted, how"
+1265,ESS10,Important to follow traditions and customs
+1266,ESS10,"Mother's highest level of education, Bulgaria"
+1267,ESS10,How worried about climate change
+1268,ESS10,Doing last 7 days: no answer
+1269,ESS10,Using correct version of showcard
+1270,ESS10,Discrimination of respondent's group: nationality
+1271,ESS10,Things happened since start of COVID-19: was furloughed
+1272,ESS10,How happy are you
+1273,ESS10,Gender of ninth person in household
+1274,ESS10,"How important things are for democracy, order D"
+1275,ESS10,"Employees expected to work overtime, how often"
+1276,ESS10,Important to help people and care for others well-being
+1277,ESS10,"Partner's highest level of education, Estonia"
+1278,ESS10,Online/mobile communication undermines personal privacy
+1279,ESS10,In country government changes policies in response to what most people think
+1280,ESS10,"Imagine large numbers of people limit energy use, how likely reduce climate change"
+1281,ESS10,"Ever lived with a partner, without being married"
+1282,ESS10,Years of full-time education completed
+1283,ESS10,Partner doing last 7 days: not applicable
+1284,ESS10,Fourth person in household: relationship to respondent
+1285,ESS10,"Which party feel closer to, Czechia"
+1286,ESS10,"Speak with child aged 12 or over in person, how often compared with before COVID-19"
+1287,ESS10,Important to be loyal to friends and devote to people close
+1288,ESS10,"Online/mobile communication with people you work with, how often compared with before COVID-19"
+1289,ESS10,"Religion or denomination belonging to at present, Hungary"
+1290,ESS10,State of health services in country nowadays
+1291,ESS10,Signed petition last 12 months
+1292,ESS10,"Religion or denomination belonging to at present, Slovakia"
+1293,ESS10,Tenth person in household: relationship to respondent
+1294,ESS10,How many people with whom you can discuss intimate and personal matters
+1295,ESS10,"Age of respondent, calculated"
+1296,ESS10,"Work from home or place of choice, how often"
+1297,ESS10,Gender of eighth person in household
+1298,ESS10,"How important things are for democracy, order A"
+1299,ESS10,"Important to be humble and modest, not draw attention"
+1300,ESS10,Total contracted hours per week in main job overtime excluded
+1301,ESS10,How often pray apart from at religious services
+1302,ESS10,Year of birth of ninth person in household
+1303,ESS10,Title of dataset
+1304,ESS10,Employment relation
+1305,ESS10,Things happened since start of COVID-19: not applicable
+1306,ESS10,Administration of reduce climate change
+1307,ESS10,Partner doing last 7 days: don't know
+1308,ESS10,Important to try new and different things in life
+1309,ESS10,"Which party feel closer to, Hungary"
+1310,ESS10,Doing last 7 days: refusal

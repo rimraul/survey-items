@@ -4,3 +4,4 @@ pyreadstat
 numpy
 pyvis
 sentence_transformers 
+faiss

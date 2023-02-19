@@ -172,7 +172,7 @@ query = st.text_input(
 # )
 
 limits = st.text_input(
-    "Enter the number of hits to be returned (the default is 10 hits) 👇")
+    "Enter the number of hits to be returned (if omitted, the default is 20 hits) 👇")
 
 if limits:
     limits=int(limits)

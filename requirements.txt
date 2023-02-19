@@ -4,4 +4,4 @@ pyreadstat
 numpy
 pyvis
 sentence_transformers 
-faiss
+faiss-cpu

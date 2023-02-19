@@ -96,9 +96,19 @@ st.title('Semantic Similarity Network of Questionnaire Items')
 # #     HtmlFile = open(f'{path}/Semantic_pyvis_2022-12-27_0016.html','r',encoding='utf-8')
 
     
+import streamlit as st
+
+option = st.selectbox(
+    'Select one of the surveys:',
+    ('V-Dem', 'ESS9', 'ESS10'))
+
+files=['V-Dem_pyvis_2023-02-19_1845.html','ESS9_pyvis_2023-02-19_1845.html','ESS10_pyvis_2023-02-19_1845.html']
+
+selected_file = [f for f in files if option in f][0]
+
+# st.write('You selected:', option)    
     
-    
-HtmlFile = open('tmp/Semantic_pyvis_2022-12-27_0016.html','r',encoding='utf-8')
+HtmlFile = open(f'tmp/{selected_file}','r',encoding='utf-8')
     
 # Load HTML into HTML component for display on Streamlit
 components.html(HtmlFile.read(), height=600)

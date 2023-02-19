@@ -117,7 +117,10 @@ components.html(HtmlFile.read(), height=600)
 
 ### Add semantic search text box
 
-df=pd.read_csv('Survey items 2023-02-19_1357.csv',columns=['survey','item'])
+file_name='Survey items 2023-02-19_1357.csv'
+df=pd.read_csv(file_name)
+df.columns=['survey','item']
+
 model =SentenceTransformer('msmarco-MiniLM-L-12-v3')
 items=df["item"].tolist()
 items_embds=model.encode(items)

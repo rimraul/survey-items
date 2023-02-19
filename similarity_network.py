@@ -162,7 +162,7 @@ limits = st.text_input(
     "Enter the number of hits to be returned 👇")
 
 if limits:
-    pass
+    limits=int(limits)
 else:
     limits=20
 

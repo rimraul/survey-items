@@ -133,9 +133,9 @@ df.columns=['no','survey','item']
 
 
 model_name = st.radio(
-        "Select the language model 👉",
+        "The language model used is 👉 ",
         key="model",
-        options=["msmarco-MiniLM-L-12-v3", "paraphrase-MiniLM-L6-v2", "google/mobilebert-uncased","cross-encoder/ms-marco-TinyBERT-L-2-v2","sentence-transformers/all-MiniLM-L6-v2","albert-base-v2","distilbert-base-cased-distilled-squad"],
+        options=["msmarco-MiniLM-L-12-v3"] # faiss index was made with this model, therefore cannot embed query with different model, e.g., "paraphrase-MiniLM-L6-v2", "google/mobilebert-uncased","cross-encoder/ms-marco-TinyBERT-L-2-v2","sentence-transformers/all-MiniLM-L6-v2","albert-base-v2","distilbert-base-cased-distilled-squad"],
     )
     
 if model_name:

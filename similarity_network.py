@@ -119,7 +119,7 @@ selected_file = [f for f in files if option in f][0]
 HtmlFile = open(f'tmp/{selected_file}','r',encoding='utf-8')
     
 # Load HTML into HTML component for display on Streamlit
-st.write("Zoom in into the graph for more details.")
+st.write("Zoom in into the graph for more details. The graph was constructed using 'paraphrase-MiniLM-L6-v2' language model and pyvis package in python. Only largest consine similarity edges were retained such that file size is approx. 100 kb")
 components.html(HtmlFile.read(), height=600)
 
 

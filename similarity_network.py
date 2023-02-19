@@ -7,6 +7,37 @@ import faiss
 import streamlit as st
 import streamlit.components.v1 as components
 
+
+
+# prepare for semantic search
+
+model_name = 'msmarco-MiniLM-L-12-v3'     
+file_name='Survey items 2023-02-19_1357.csv'
+df=pd.read_csv(file_name)
+df.columns=['no','survey','item']
+    
+model =SentenceTransformer(model_name)
+# items=df["item"].tolist()
+# items_embds=model.encode(items)
+
+index = faiss.read_index('faiss_index')
+
+def search(query,index,df,k=10):
+    query_vector = model.encode([query])
+    top_k = index.search(query_vector, k)
+    results=[items[_id] for _id in top_k[1].tolist()[0]]
+    scores=[round(s,2) for s in top_k[0].tolist()[0]]
+    results=pd.DataFrame({'score':top_k[0][0],'item':[items[_id] for _id in top_k[1].tolist()[0]]})
+    unique_results = results.drop_duplicates(subset=['item'])
+    enriched_results=pd.DataFrame(columns=["survey","item",'score'])
+    for i,c in unique_results.iterrows():
+        multiple=df.loc[df['item'] == c[1]]
+        for ind,row in multiple.iterrows():
+            enriched_results.loc[len(enriched_results)]= [row[1],row[2],c[0]]
+    return enriched_results
+
+
+
 # 0. Generate pyvis graphs dynamically from github (unable to acomplish so far)
 # 1. (Alternative) Generate pyvis graphs locally and upload to hithub, e.g.:
 
@@ -96,14 +127,6 @@ st.title('Semantic Similarity Network of Questionnaire Items')
 # # #     G_pyvis.save_graph(f'{path}/pyvis_graph.html')
 # # #     HtmlFile = open(f'{path}/pyvis_graph.html','r',encoding='utf-8')
 # #     HtmlFile = open(f'{path}/Semantic_pyvis_2022-12-27_0016.html','r',encoding='utf-8')
-
-    
-import streamlit as st
-
-
-# if "visibility" not in st.session_state:
-#     st.session_state.visibility = "visible"
-#     st.session_state.disabled = False
     
 
 option = st.selectbox(
@@ -127,9 +150,6 @@ components.html(HtmlFile.read(), height=600)
 
 st.title('Semantic Search for Questionnaire Items')
 
-file_name='Survey items 2023-02-19_1357.csv'
-df=pd.read_csv(file_name)
-df.columns=['no','survey','item']
 
 
 model_name = st.radio(
@@ -138,32 +158,10 @@ model_name = st.radio(
         options=["msmarco-MiniLM-L-12-v3"] # faiss index was made with this model, therefore cannot embed query with different model, e.g., "paraphrase-MiniLM-L6-v2", "google/mobilebert-uncased","cross-encoder/ms-marco-TinyBERT-L-2-v2","sentence-transformers/all-MiniLM-L6-v2","albert-base-v2","distilbert-base-cased-distilled-squad"],
     )
     
-if model_name:
-    model_name=str(model_name)
-else:
-    model_name = 'msmarco-MiniLM-L-12-v3'
-
-model =SentenceTransformer(model_name)
-items=df["item"].tolist()
-items_embds=model.encode(items)
-
-index = faiss.read_index('faiss_index')
-
-def search(query,k=10):
-    query_vector = model.encode([query])
-    top_k = index.search(query_vector, k)
-    results=[items[_id] for _id in top_k[1].tolist()[0]]
-    scores=[round(s,2) for s in top_k[0].tolist()[0]]
-    results=pd.DataFrame({'score':top_k[0][0],'item':[items[_id] for _id in top_k[1].tolist()[0]]})
-    unique_results = results.drop_duplicates(subset=['item'])
-    enriched_results=pd.DataFrame(columns=["survey","item",'score'])
-    for i,c in unique_results.iterrows():
-        multiple=df.loc[df['item'] == c[1]]
-        for ind,row in multiple.iterrows():
-            enriched_results.loc[len(enriched_results)]= [row[1],row[2],c[0]]
-    return enriched_results
-
-
+# if model_name:
+#     model_name=str(model_name)
+# else:
+#     model_name = 'msmarco-MiniLM-L-12-v3'
 
 query = st.text_input(
     "Enter some text for semantic search in the variable labels 👇")
@@ -184,7 +182,7 @@ else:
 
 
 if query:
-    results=search(query,k=limits)
+    results=search(query,index,df,k=limits)
     results.loc[len(results)]=['Query',query,0.01]
     st.write(f"The semantically closest {limits} items (lowest scores) to the query '{query}' are: ", results)
     

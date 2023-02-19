@@ -151,7 +151,7 @@ def search(query,k=10):
 
 
 query = st.text_input(
-    "Enter some text 👇")
+    "Enter some text for semantic search in the variable labels 👇")
 # ,
 #     label_visibility=st.session_state.visibility,
 #     disabled=st.session_state.disabled,
@@ -161,7 +161,7 @@ query = st.text_input(
 if query:
     results=search(query,20)
     results.loc[len(results)]=['Query',query,0.01]
-    st.write("The closests items are: ", results)
+    st.write("The closests items (lowest scores) are: ", results)
     
     
         

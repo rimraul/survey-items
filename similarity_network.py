@@ -136,7 +136,7 @@ model_name = st.radio(
     )
     
 if model_name:
-    pass
+    model_name=str(model_name)
 else:
     model_name = 'msmarco-MiniLM-L-12-v3'
 

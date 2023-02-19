@@ -17,7 +17,7 @@ df=pd.read_csv(file_name)
 df.columns=['no','survey','item']
     
 model =SentenceTransformer(model_name)
-# items=df["item"].tolist()
+items=df["item"].tolist()
 # items_embds=model.encode(items)
 
 index = faiss.read_index('faiss_index')

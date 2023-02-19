@@ -132,7 +132,7 @@ model =SentenceTransformer('msmarco-MiniLM-L-12-v3')
 items=df["item"].tolist()
 items_embds=model.encode(items)
 
-index = faiss.read_index('faiss_items')
+index = faiss.read_index('faiss_index')
 
 def search(query,k=10):
     query_vector = model.encode([query])

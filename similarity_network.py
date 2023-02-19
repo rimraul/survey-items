@@ -145,7 +145,7 @@ def search(query,k=10):
     for i,c in unique_results.iterrows():
         multiple=df.loc[df['item'] == c[1]]
         for ind,row in multiple.iterrows():
-            enriched_results.loc[len(enriched_results)]= [row[0],row[1],c[0]]
+            enriched_results.loc[len(enriched_results)]= [row[1],row[2],c[0]]
     return enriched_results
 
 

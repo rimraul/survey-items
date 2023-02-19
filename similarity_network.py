@@ -101,9 +101,9 @@ st.title('Semantic Similarity Network of Questionnaire Items')
 import streamlit as st
 
 
-if "visibility" not in st.session_state:
-    st.session_state.visibility = "visible"
-    st.session_state.disabled = False
+# if "visibility" not in st.session_state:
+#     st.session_state.visibility = "visible"
+#     st.session_state.disabled = False
     
 
 option = st.selectbox(
@@ -151,11 +151,12 @@ def search(query,k=10):
 
 
 query = st.text_input(
-    "Enter some text 👇",
-    label_visibility=st.session_state.visibility,
-    disabled=st.session_state.disabled,
-    placeholder=st.session_state.placeholder,
-)
+    "Enter some text 👇")
+# ,
+#     label_visibility=st.session_state.visibility,
+#     disabled=st.session_state.disabled,
+#     placeholder=st.session_state.placeholder,
+# )
 
 if query:
     results=search(query,20)

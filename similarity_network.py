@@ -186,7 +186,7 @@ else:
 if query:
     results=search(query,k=limits)
     results.loc[len(results)]=['Query',query,0.01]
-    st.write(f"The closests {limits} items (lowest scores) are: ", results)
+    st.write(f"The semantically closest {limits} items (lowest scores) to the query '{query}' are: ", results)
     
     
         

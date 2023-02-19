@@ -112,3 +112,50 @@ HtmlFile = open(f'tmp/{selected_file}','r',encoding='utf-8')
     
 # Load HTML into HTML component for display on Streamlit
 components.html(HtmlFile.read(), height=600)
+
+
+### Add semantic search text box
+
+df=pd.read_csv('Survey items 2023-02-19_1357.csv',columns=['survey','item'])
+model =SentenceTransformer('msmarco-MiniLM-L-12-v3')
+items=df["item"].tolist()
+items_embds=model.encode(items)
+
+index = faiss.read_index('faiss_items')
+
+def search(query,k=10):
+    query_vector = model.encode([query])
+    top_k = index.search(query_vector, k)
+    results=[items[_id] for _id in top_k[1].tolist()[0]]
+    scores=[round(s,2) for s in top_k[0].tolist()[0]]
+    results=pd.DataFrame({'score':top_k[0][0],'item':[items[_id] for _id in top_k[1].tolist()[0]]})
+    unique_results = results.drop_duplicates(subset=['item'])
+    enriched_results=pd.DataFrame(columns=["survey","item",'score'])
+    for i,c in unique_results.iterrows():
+        multiple=df.loc[df['item'] == c[1]]
+        for ind,row in multiple.iterrows():
+            enriched_results.loc[len(enriched_results)]= [row[0],row[1],c[0]]
+    return enriched_results
+
+
+
+query = st.text_input(
+    "Enter some text 👇",
+    label_visibility=st.session_state.visibility,
+    disabled=st.session_state.disabled,
+    placeholder=st.session_state.placeholder,
+)
+
+if query:
+    results=search(query,20)
+    results.loc[len(results)]=['Query',query,0.01]
+    st.write("The closests items are: ", results)
+    
+    
+        
+
+
+
+
+
+

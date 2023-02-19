@@ -128,7 +128,19 @@ file_name='Survey items 2023-02-19_1357.csv'
 df=pd.read_csv(file_name)
 df.columns=['no','survey','item']
 
-model =SentenceTransformer('msmarco-MiniLM-L-12-v3')
+
+model_name = st.radio(
+        "Select the language model 👉",
+        key="model",
+        options=["msmarco-MiniLM-L-12-v3", "paraphrase-MiniLM-L6-v2", "google/mobilebert-uncased","cross-encoder/ms-marco-TinyBERT-L-2-v2","sentence-transformers/all-MiniLM-L6-v2","albert-base-v2","distilbert-base-cased-distilled-squad"],
+    )
+    
+if model_name:
+    pass
+else:
+    model_name = 'msmarco-MiniLM-L-12-v3'
+
+model =SentenceTransformer(model_name)
 items=df["item"].tolist()
 items_embds=model.encode(items)
 

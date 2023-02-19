@@ -2,6 +2,7 @@ import pyreadstat
 import numpy as np
 import pandas as pd
 from pyvis import network as net
+import faiss
 import streamlit as st
 import streamlit.components.v1 as components
 
